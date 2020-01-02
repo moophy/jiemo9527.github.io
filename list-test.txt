@@ -311,7 +311,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第04集,https://mhkuaibo.com/20191231/70PAizL0/index.m3u8
 第05集,https://mhkuaibo.com/20200101/QYIyWurs/index.m3u8
 
-海贼王(1-915)，#genre#
+海贼王(1-915),#genre#
 第01集,https://2.mhbobo.com/share/w3PPjb3VH7TjCcCr
 第02集,https://2.mhbobo.com/share/zfxWPWLSea2RDfmK
 第03集,https://2.mhbobo.com/share/eZyPHAHZucuaE004
