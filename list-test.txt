@@ -311,7 +311,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第04集,https://mhkuaibo.com/20191231/70PAizL0/index.m3u8
 第05集,https://mhkuaibo.com/20200101/QYIyWurs/index.m3u8
 
-海贼王(1-915),#genre#
+海贼王,#genre#
 第001集,https://2.mhbobo.com/20190805/qzJIvhK0/index.m3u8
 第002集,https://2.mhbobo.com/20190805/G0cKly0E/index.m3u8
 第003集,https://2.mhbobo.com/20190805/8ieeKbJ7/index.m3u8
@@ -1228,7 +1228,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第914集,https://mhkuaibo.com/20191215/ZdFVfNIh/index.m3u8
 第915集,https://mhkuaibo.com/20191222/VHs2hj39/index.m3u8
 
-秦时明月之君临天下,#genre#
+君临天下,#genre#
 第01集,https://qiyi.mhyunbo.com/20191009/KB9Ncwc1/index.m3u8
 第02集,https://qiyi.mhyunbo.com/20191009/BsIW0hJ2/index.m3u8
 第03集,https://qiyi.mhyunbo.com/20191009/r24nHDfU/index.m3u8
@@ -1306,7 +1306,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第75集,https://qiyi.mhyunbo.com/20191009/LysYTwFs/index.m3u8
 
 
-秦时明月之万里长城,#genre#
+万里长城,#genre#
 第01集,https://3.mhbobo.com/20191009/4zyPwnSa/index.m3u8
 第02集,https://3.mhbobo.com/20191009/sOD1tWfZ/index.m3u8
 第03集,https://3.mhbobo.com/20191009/mdvdctnr/index.m3u8
@@ -1345,7 +1345,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第36集,https://3.mhbobo.com/20191009/MxLCx1OO/index.m3u8
 第37集,https://3.mhbobo.com/20191009/4CxxU1Ci/index.m3u8
 
-秦时明月之夜尽天明,#genre#
+夜尽天明,#genre#
 第01集,https://3.mhbobo.com/20191007/gxYIu8aN/index.m3u8
 第02集,https://3.mhbobo.com/20191007/eVZa13s4/index.m3u8
 第03集,https://3.mhbobo.com/20191007/HN5eaw5l/index.m3u8
@@ -1365,7 +1365,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第17集,https://3.mhbobo.com/20191007/hkGSUrel/index.m3u8
 第18集,https://3.mhbobo.com/20191007/PcRbRHYS/index.m3u8
 
-秦时明月之百步飞剑,#genre#
+百步飞剑,#genre#
 第01集,https://3.mhbobo.com/20191007/tNXbFMjp/index.m3u8
 第02集,https://3.mhbobo.com/20191007/e0rAz72R/index.m3u8
 第03集,https://3.mhbobo.com/20191007/BS5B6Va4/index.m3u8
@@ -1377,7 +1377,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第09集,https://3.mhbobo.com/20191007/wn2j8tx5/index.m3u8
 第10集,https://3.mhbobo.com/20191007/g39wqy2l/index.m3u8
 
-秦时明月之诸子百家,#genre#
+诸子百家,#genre#
 第01集,https://mhyunbo.com/20191007/KAQxn5iZ/index.m3u8
 第02集,https://mhyunbo.com/20191007/blGw4R6x/index.m3u8
 第03集,https://mhyunbo.com/20191007/1Nkrp794/index.m3u8
@@ -1412,3 +1412,65 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第32集,https://mhyunbo.com/20191007/O6FyTxd2/index.m3u8
 第33集,https://mhyunbo.com/20191007/VItZhN1P/index.m3u8
 第34集,https://mhyunbo.com/20191007/OgVtOBiR/index.m3u8
+
+鹤唳华亭,#genre#
+第01集,https://mhbobo.com/20191111/HjdsSHWc/index.m3u8
+第02集,https://mhbobo.com/20191111/JMDr7cGb/index.m3u8
+第03集,https://mhbobo.com/20191111/NN5pyP2Z/index.m3u8
+第04集,https://mhbobo.com/20191111/jABKtnAo/index.m3u8
+第05集,https://mhbobo.com/20191111/gxdd2uIo/index.m3u8
+第06集,https://youku.mhyunbo.com/20191114/6tUkbk0L/index.m3u8
+第07集,https://youku.mhyunbo.com/20191118/U3285uCo/index.m3u8
+第08集,https://youku.mhyunbo.com/20191118/Ms4kVaRy/index.m3u8
+第09集,https://youku.mhyunbo.com/20191121/4yQ7cy94/index.m3u8
+第10集,https://mhyunbo.com/20191125/q8p6SKGN/index.m3u8
+第11集,https://mhyunbo.com/20191125/xvzzRzME/index.m3u8
+第12集,https://youku.mhyunbo.com/20191128/CAVG3uzB/index.m3u8
+第13集,https://youku.mhyunbo.com/20191128/0nh5f5IY/index.m3u8
+第14集,https://youku.mhyunbo.com/20191128/4aZMwVTi/index.m3u8
+第15集,https://youku.mhyunbo.com/20191128/Y7AR9WCo/index.m3u8
+第16集,https://youku.mhyunbo.com/20191202/ISIM1XF4/index.m3u8
+第17集,https://youku.mhyunbo.com/20191202/x5XeZj6O/index.m3u8
+第18集,https://youku.mhyunbo.com/20191202/qO83AUR4/index.m3u8
+第19集,https://youku.mhyunbo.com/20191202/U80RKGzY/index.m3u8
+第20集,https://mhkuaibo.com/20191228/lKfHptsM/index.m3u8
+第21集,https://mhkuaibo.com/20191228/diZ8d8sv/index.m3u8
+第22集,https://mhkuaibo.com/20191228/RCIR1TL7/index.m3u8
+第23集,https://mhkuaibo.com/20191228/kHGWoKVe/index.m3u8
+第24集,https://mhkuaibo.com/20191228/CxuNgkrv/index.m3u8
+第25集,https://mhkuaibo.com/20191228/DiaEDgVj/index.m3u8
+第26集,https://mhkuaibo.com/20191228/d8NZd8YX/index.m3u8
+第27集,https://mhkuaibo.com/20191228/JSN1lEpC/index.m3u8
+第28集,https://mhkuaibo.com/20191228/NviC1Tif/index.m3u8
+第29集,https://mhkuaibo.com/20191228/sjqueSoF/index.m3u8
+第30集,https://mhkuaibo.com/20191228/yi3wRNSX/index.m3u8
+第31集,https://mhkuaibo.com/20191228/Urkn17lu/index.m3u8
+第32集,https://mhkuaibo.com/20191216/OxIdYqXw/index.m3u8
+第33集,https://mhkuaibo.com/20191216/RtLvM5LS/index.m3u8
+第34集,https://mhkuaibo.com/20191216/gNCO058x/index.m3u8
+第35集,https://mhkuaibo.com/20191216/NXY9Ewd3/index.m3u8
+第36集,https://mhkuaibo.com/20191219/UNM0Slr8/index.m3u8
+第37集,https://mhkuaibo.com/20191219/fv9OBJjX/index.m3u8
+第38集,https://mhkuaibo.com/20191219/QTWtGk9j/index.m3u8
+第39集,https://mhkuaibo.com/20191219/YPs0pGOh/index.m3u8
+第40集,https://mhkuaibo.com/20191223/xYhGl2av/index.m3u8
+第41集,https://mhkuaibo.com/20191223/UIFAA9bQ/index.m3u8
+第42集,https://mhkuaibo.com/20191223/Vnqrh0F0/index.m3u8
+第43集,https://mhkuaibo.com/20191223/SFt96QaS/index.m3u8
+第44集,https://mhkuaibo.com/20191226/bS3N2wH6/index.m3u8
+第45集,https://mhkuaibo.com/20191226/g7oj0PNM/index.m3u8
+第46集,https://mhkuaibo.com/20191226/0bTKjLHl/index.m3u8
+第47集,https://mhkuaibo.com/20191226/f6w8KDB5/index.m3u8
+第48集,https://mhkuaibo.com/20191230/brZjoTZe/index.m3u8
+第49集,https://mhkuaibo.com/20191230/cXiSDLvC/index.m3u8
+第50集,https://mhkuaibo.com/20191230/fDOKwPXV/index.m3u8
+第51集,https://mhkuaibo.com/20191230/n5HfTvrA/index.m3u8
+第52集,https://mhkuaibo.com/20200102/yLEIMa19/index.m3u8
+
+陈情令[特],#genre#
+第01集,https://mhkuaibo.com/20200102/5814JxHL/index.m3u8
+第02集,https://mhkuaibo.com/20200102/G1zZesNa/index.m3u8
+第03集,https://mhkuaibo.com/20200102/dVDprxBF/index.m3u8
+第04集,https://mhkuaibo.com/20200102/2lw0Bj60/index.m3u8
+第05集,https://mhkuaibo.com/20200102/CRaOqAEF/index.m3u8
+第06集,https://mhkuaibo.com/20200102/49DT3hD7/index.m3u8
