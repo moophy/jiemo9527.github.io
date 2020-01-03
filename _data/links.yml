@@ -372,7 +372,7 @@
     - name: 机器学习资源大全
       style: yellow
       url: http://t.cn/Rqd9xEj
-#    磁链0
+#    磁链
   - name: 磁力搜索引擎
     links:
     - name: 不死鸟索引
@@ -390,6 +390,32 @@
     - name: Nyaa
       style: basic
       url: https://nyaa.si/
+#    服务器
+  - name: server
+    links:
+    - name: 搬瓦工
+      style: yellow
+      url: https://bandwagonhost.com/clientarea.php?action=products
+
+    - name: AWS
+      style: orange
+      url: https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#Instances:sort=availabilityZone
+
+    - name: CloudCone
+      style: green
+      url: https://app.cloudcone.com/login
+
+    - name: JustHost
+      style: white
+      url: https://justhost.ru/auth/login/?returl=/billing/active
+
+    - name: namesilo
+      style: blue
+      url: https://www.namesilo.com/account_domains.php
+
+    - name: DNSpod
+      style: blue
+      url: https://www.dnspod.cn/console/dns
 
 
 
