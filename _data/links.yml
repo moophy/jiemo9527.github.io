@@ -285,27 +285,24 @@
       style: yellow
       url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
 
-    - name: 弯弯
+    - name: 麻花采集
       style: blue
-      url: http://wanwansub.com/node/139
+      url: http://www.mahuazy.net/?from=hao.su/
 
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
 
-    - name: 电波
+    - name: 碟影世界
       style: basic
-      url: http://dbfansub.com/
+      url: https://dvdhd.me/
 
     - name: 猪猪
       style: purple
       url: http://www.zzrbl.com/
 
-    - name: 幻樱
-      style: pink
-      url: http://www.hysub.net/
 
-    - name: 斗鱼
+    - name: 完美看看
       style: orange
-      url: https://douyu.com/
+      url: https://www.wanmeikk.me/
 
