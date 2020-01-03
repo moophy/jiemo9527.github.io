@@ -1,4 +1,5 @@
 - categories:
+#    购物
   - name: 购物
     links:
     - name: 淘宝
@@ -70,7 +71,7 @@
     - name: 有品
       style: brown
       url: https://xiaomiyoupin.com/
-
+#    工具
   - name: 工具
     links:
     - name: '12306'
@@ -131,7 +132,7 @@
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
-
+#    社交
   - name: 社交
     links:
     - name: 微博
@@ -188,7 +189,7 @@
       icon: linkedin blue
       style: basic
       url: https://www.linkedin.com/
-
+#    学习
   - name: 学习
     links:
     - name: Coursera
@@ -232,16 +233,14 @@
     - name: 云英语
       style: black
       url: https://www.y-english.org/
-
-  - name: 娱乐
+#    影视
+  - name: 影视
     links:
     - name: 优酷
       style: basic
       url: https://youku.com/
 
-    # - name: 土豆
-    #   style: basic
-    #   url: https://tudou.com/
+
 
     - name: Youtube
       icon: youtube red
@@ -264,9 +263,9 @@
       style: pink
       url: https://bilibili.com/
 
-    # - name: AcFun
-    #   style: basic
-    #   url: https://acfun.cn/
+     - name: AcFun
+       style: basic
+       url: https://acfun.cn/
 
     - name: 腾讯动漫
       style: basic
@@ -280,10 +279,6 @@
       icon: film blue
       style: basic
       url: https://movie.douban.com/
-
-    - name: FIX
-      style: yellow
-      url: http://www.zimuxia.cn/%E6%88%91%E4%BB%AC%E7%9A%84%E4%BD%9C%E5%93%81
 
     - name: 麻花采集
       style: blue
@@ -305,4 +300,99 @@
     - name: 完美看看
       style: orange
       url: https://www.wanmeikk.me/
+#    磁链
+  - name: 磁力搜索引擎
+    links:
+    - name: 不死鸟索引
+      style: basic
+      url: https://hao.su/909/#menu_index_1
+
+    - name: zooqle
+      style: basic
+      url: https://zooqle.com/
+
+    - name: mp4ba
+      style: basic
+      url: http://mp4ba.cc/
+
+    - name: Nyaa
+      style: basic
+      url: https://nyaa.si/
+#    学术
+  - name: 学术
+    links:
+    - name: 万方
+      style: basic
+      url: http://www.wanfangdata.com.cn/
+
+    - name: 知网
+      style: basic
+      url: http://www.cnki.net/
+
+    - name: 百度学术
+      style: basic
+      url: http://xueshu.baidu.com/
+
+    - name: 爱学术
+      style: basic
+      url: http://www.ixueshu.com/
+
+    - name: 中文科技期刊数据库
+      style: basic
+      url: http://www.cqvip.com/
+
+    - name: 学术网站大全
+      style: basic
+      url: http://t.cn/RhltSmt
+
+    - name: 中国科技论文在线
+      style: basic
+      url: http://t.cn/75vs4
+#    开发资源大全
+  - name: 开发资源大全
+    links:
+    - name: Java资源大全
+      style: basic
+      url: http://t.cn/RUtp4qt
+
+    - name: Python资源大全
+      style: basic
+      url: http://t.cn/Rq0C0ET
+
+    - name: JS资源大全
+      style: basic
+      url: http://t.cn/R44bazj
+
+    - name: CSS资源大全
+      style: basic
+      url: http://t.cn/R4trAbc
+
+    - name: iOS资源大全
+      style: basic
+      url: http://t.cn/Rbe5h16
+
+    - name: Andriod资源大全
+      style: basic
+      url: http://t.cn/RtJsQyd
+
+    - name: PHP资源大全
+      style: basic
+      url: http://t.cn/RtCVOwT
+
+    - name: .NET资源大全
+      style: basic
+      url: http://t.cn/RtCVOwT
+
+    - name: 系统管理资源大全
+      style: basic
+      url: http://t.cn/RqBjrlw
+
+    - name: 机器学习资源大全
+      style: basic
+      url: http://t.cn/Rqd9xEj
+
+
+
+
+
 
