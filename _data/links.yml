@@ -74,6 +74,14 @@
 #    工具
   - name: 工具
     links:
+    - name: kodexplorer——ONE
+      style: green
+      url: https://jiemo-one.top
+
+    - name: kodexplorer——VI
+      style: light blue
+      url: https://jiemo-vi.top
+
     - name: '12306'
       icon: train red
       style: basic
@@ -391,7 +399,7 @@
       style: basic
       url: https://nyaa.si/
 #    服务器
-  - name: server
+  - name: Server
     links:
     - name: 搬瓦工
       style: yellow
