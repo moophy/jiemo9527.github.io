@@ -7,7 +7,7 @@ active_key: home
     <div class="ui vertical stripe links segment">
         <div class="ui equal width stackable internally celled grid">
             <div class="center aligned row">
-                {%- for category in section.categories -%}
+                {%- for category in section.categories && category.index<6-%}
                     <div class="links column">
                         <div class="ui top attached label">{{ category.name }}</div>
                         <div class="ui labels">
