@@ -234,7 +234,7 @@
       style: black
       url: https://www.y-english.org/
 
-  - name: 娱乐
+  -name: 娱乐
     links:
     - name: 优酷
       style: basic
