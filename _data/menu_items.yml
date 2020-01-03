@@ -3,7 +3,7 @@
   url: /
   active_key: home
 
-- name: 定制化
+- name: 设置
   icon: tools
   url: /customize/
   active_key: customize
