@@ -299,24 +299,7 @@
       style: orange
       url: https://www.wanmeikk.me/
 - categories:
-#    磁链0
-  - name: 磁力搜索引擎
-    links:
-    - name: 不死鸟索引
-      style: basic
-      url: https://hao.su/909/#menu_index_1
 
-    - name: zooqle
-      style: basic
-      url: https://zooqle.com/
-
-    - name: mp4ba
-      style: basic
-      url: http://mp4ba.cc/
-
-    - name: Nyaa
-      style: basic
-      url: https://nyaa.si/
 #    学术
   - name: 学术
     links:
@@ -351,15 +334,15 @@
   - name: 开发资源大全
     links:
     - name: Java资源大全
-      style: basic
+      style: pink
       url: http://t.cn/RUtp4qt
 
     - name: Python资源大全
-      style: basic
+      style: green
       url: http://t.cn/Rq0C0ET
 
     - name: JS资源大全
-      style: basic
+      style: orange
       url: http://t.cn/R44bazj
 
     - name: CSS资源大全
@@ -371,7 +354,7 @@
       url: http://t.cn/Rbe5h16
 
     - name: Andriod资源大全
-      style: basic
+      style: black
       url: http://t.cn/RtJsQyd
 
     - name: PHP资源大全
@@ -379,16 +362,34 @@
       url: http://t.cn/RtCVOwT
 
     - name: .NET资源大全
-      style: basic
+      style: grey
       url: http://t.cn/RtCVOwT
 
     - name: 系统管理资源大全
-      style: basic
+      style: blue
       url: http://t.cn/RqBjrlw
 
     - name: 机器学习资源大全
-      style: basic
+      style: yellow
       url: http://t.cn/Rqd9xEj
+#    磁链0
+  - name: 磁力搜索引擎
+    links:
+    - name: 不死鸟索引
+      style: basic
+      url: https://hao.su/909/#menu_index_1
+
+    - name: zooqle
+      style: basic
+      url: https://zooqle.com/
+
+    - name: mp4ba
+      style: basic
+      url: http://mp4ba.cc/
+
+    - name: Nyaa
+      style: basic
+      url: https://nyaa.si/
 
 
 
