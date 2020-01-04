@@ -97,10 +97,10 @@
       style: basic
       url: http://www.dianping.com/
 
-    # - name: 网易邮箱
-    #   icon: envelope red
-    #   style: basic
-    #   url: http://email.163.com/
+     - name: 网易邮箱
+       icon: envelope red
+       style: basic
+       url: http://email.163.com/
 
     - name: QQ邮箱
       icon: qq black
@@ -122,10 +122,9 @@
       style: basic
       url: https://translate.google.com/
 
-    - name: 百度翻译
-      icon: paw blue
+    - name: Pixiv
       style: basic
-      url: https://fanyi.baidu.com/
+      url: https://accounts.pixiv.net/login?lang=zh&source=pc&view_type=page&ref=wwwtop_accounts_index
 
     - name: 维基百科
       icon: wikipedia w black
@@ -380,6 +379,14 @@
     - name: 机器学习资源大全
       style: yellow
       url: http://t.cn/Rqd9xEj
+
+    - name: Maven Repository
+      style: black
+      url: https://mvnrepository.com
+
+    - name: 在线pdm
+      style: black
+      url: www.dmanywhere.cn
 #    磁链
   - name: 磁力搜索引擎
     links:
@@ -424,6 +431,14 @@
     - name: DNSpod
       style: blue
       url: https://www.dnspod.cn/console/dns
+
+    - name: ping.me
+      style: balck
+      url: http://port.ping.pe/
+
+    - name: netlify
+      style: balck
+      url: https://app.netlify.com/account/sites
 
 
 
