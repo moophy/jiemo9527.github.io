@@ -142,11 +142,11 @@
 
     - name: 硕鼠解析
       style: basic
-      url: www.flvcd.com/index.htm
+      url: http://www.flvcd.com/index.htm
 
     - name: 芝麻代理
       style: basic
-      url: h.zhimaruanjian.com/ucenter/#info
+      url: http://h.zhimaruanjian.com/ucenter/#info
 #    社交
   - name: 社交
     links:
@@ -406,7 +406,7 @@
       url: https://hao.su/909/#menu_index_1
 
     - name: tg资源搜索
-      style: red
+      style: blue
       url: http://www.sssoou.com/
 
     - name: zooqle
