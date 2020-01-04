@@ -11,5 +11,5 @@
 
 - name: 捐赠
   icon: donate
-  url: http://jiemo-one.top:999/
+  url: /donate/
   active_key: donate
