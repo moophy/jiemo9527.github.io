@@ -82,6 +82,14 @@
       style: light blue
       url: https://jiemo-vi.top
 
+    - name: IPAddress
+      style: black
+      url: https://www.ipaddress.com/
+
+    - name: 门牌号
+      style: #009688
+      url: https://www.sojson.com/ip/
+
     - name: '12306'
       icon: train red
       style: basic
@@ -92,10 +100,13 @@
       style: basic
       url: http://www.kuaidi100.com/
 
-    - name: 大众点评
-      icon: utensils orange
+    - name: 百度网盘
       style: basic
-      url: http://www.dianping.com/
+      url: https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list
+
+    - name: OneDrive
+      style: basic
+      url: https://pmjs-my.sharepoint.com/personal/jiemo_my365_tw/_layouts/15/onedrive.aspx
 
     - name: 网易邮箱
       icon: envelope red
@@ -123,7 +134,7 @@
       url: https://translate.google.com/
 
     - name: Pixiv
-      style: basic
+      style: blue
       url: https://accounts.pixiv.net/login?lang=zh&source=pc&view_type=page&ref=wwwtop_accounts_index
 
     - name: 维基百科
@@ -141,11 +152,11 @@
       url: https://www.tianyancha.com/
 
     - name: 硕鼠解析
-      style: basic
+      style: grey
       url: http://www.flvcd.com/index.htm
 
     - name: 芝麻代理
-      style: basic
+      style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
 #    社交
   - name: 社交
@@ -159,6 +170,14 @@
       icon: weixin green
       style: basic
       url: https://wx.qq.com/
+
+    - name: 一加社区
+      style: basic
+      url: http://www.oneplusbbs.com/forum-118-1.html
+
+    - name: 吾爱破解
+      style: basic
+      url: https://www.52pojie.cn/
 
     - name: 百度贴吧
       icon: paw blue
@@ -300,6 +319,10 @@
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
+
+    - name: 追新番日剧
+      style: light blue
+      url: http://zhuixinfan.com/main.php
 
     - name: 碟影世界
       style: basic
