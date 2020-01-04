@@ -310,6 +310,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第03集,https://mhkuaibo.com/20191228/E3SQZdDo/index.m3u8
 第04集,https://mhkuaibo.com/20191231/70PAizL0/index.m3u8
 第05集,https://mhkuaibo.com/20200101/QYIyWurs/index.m3u8
+第06集,https://mhkuaibo.com/20200103/PYxWoa31/index.m3u8
 
 海贼王,#genre#
 第001集,https://2.mhbobo.com/20190805/qzJIvhK0/index.m3u8
