@@ -74,11 +74,11 @@
 #    工具
   - name: 工具
     links:
-    - name: kodexplorer——ONE
+    - name: kodexplorer—ONE
       style: green
       url: https://jiemo-one.top
 
-    - name: kodexplorer——VI
+    - name: kodexplorer—VI
       style: light blue
       url: https://jiemo-vi.top
 
