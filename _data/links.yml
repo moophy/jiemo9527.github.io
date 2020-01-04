@@ -482,6 +482,10 @@
       style: black
       url: https://app.netlify.com/account/sites
 
+    - name: cloudflare
+      style: black
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
 
 
 
