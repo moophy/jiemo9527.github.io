@@ -1549,7 +1549,7 @@ Voice3,#genre#
 第15集,https://2.mhbobo.com/20190701/PmCfHoiF/index.m3u8
 第16集,https://2.mhbobo.com/20190701/zAhP5OHd/index.m3u8
 
-坑王驾到第四季,#genre#
+坑王驾到四,#genre#
 20190914,https://3.mhbobo.com/20190928/Cuu8rs0l/index.m3u8
 20190921,https://3.mhbobo.com/20190928/UeJ1m33q/index.m3u8
 20190928,https://3.mhbobo.com/20190928/KRjqw2V1/index.m3u8
