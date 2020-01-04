@@ -454,6 +454,10 @@
       style: orange
       url: https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#Instances:sort=availabilityZone
 
+    - name: GCP
+      style: blue
+      url: https://console.cloud.google.com/home/dashboard?project=refined-rookery-234303&hl=zh-CN&_ga=2.55307947.-1647764472.1577851817
+
     - name: CloudCone
       style: green
       url: https://app.cloudcone.com/login
