@@ -1581,7 +1581,7 @@ Voice3,#genre#
 第13集,https://mhkuaibo.com/20191231/rTg0DrId/index.m3u8
 第14集,https://mhkuaibo.com/20191231/i7BHbf5m/index.m3u8
 
-从前有座灵剑山,#genre#
+从前有座ljs,#genre#
 第01集,https://3.mhbobo.com/20191112/MrIbsX0L/index.m3u8
 第02集,https://3.mhbobo.com/20191112/RQ6ZMO9C/index.m3u8
 第03集,https://3.mhbobo.com/20191112/dClX3Iil/index.m3u8
