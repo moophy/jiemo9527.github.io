@@ -1619,3 +1619,8 @@ Voice3,#genre#
 第35集,https://tudou.mhyunbo.com/20191129/GpZ0ziWn/index.m3u8
 第36集,https://tudou.mhyunbo.com/20191129/vuGX22BC/index.m3u8
 第37集,https://tudou.mhyunbo.com/20191129/82ERdWGG/index.m3u8
+
+德古拉,#genre#
+第01集,https://mhkuaibo.com/20200103/7uUWRwIj/index.m3u8
+第02集,https://mhkuaibo.com/20200103/QGsYw4Fg/index.m3u8
+第03集,https://mhkuaibo.com/20200104/yv4N8IvV/index.m3u8
