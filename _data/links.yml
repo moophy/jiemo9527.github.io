@@ -332,10 +332,15 @@
       style: purple
       url: http://www.zzrbl.com/
 
-
     - name: 完美看看
       style: orange
       url: https://www.wanmeikk.me/
+
+    - name: 影视全搜索
+      style: purple
+      url: http://v.eyunzhu.com/
+
+
 - categories:
 #    学术
   - name: 学术
