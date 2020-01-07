@@ -221,3 +221,11 @@
     icon: lemon green inverted
     style: black
     show: true
+
+- id: Vsearch
+  name: Vsearch
+  url: http://v.eyunzhu.com/search?kw={query}
+  shortcut:
+    icon: earth
+    style: black
+    show: true
