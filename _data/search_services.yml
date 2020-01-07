@@ -226,6 +226,6 @@
   name: Vsearch
   url: http://v.eyunzhu.com/search?kw={query}
   shortcut:
-    icon: earth
+    icon: star purple
     style: black
     show: true
