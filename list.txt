@@ -2538,3 +2538,5 @@ Voice3,#genre#
 第31集,https://mhkuaibo.com/20200106/wWNFFDR1/index.m3u8
 第32集,https://mhkuaibo.com/20200107/Ek5x2Gvn/index.m3u8
 第33集,https://mhkuaibo.com/20200107/fA6UHtm6/index.m3u8
+第34集,https://mhkuaibo.com/20200108/LvK9voPe/index.m3u8
+第35集,https://mhkuaibo.com/20200108/VYrg0Kex/index.m3u8
