@@ -2355,6 +2355,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第07集,https://mhkuaibo.com/20200102/tYvyDs6z/index.m3u8
 第08集,https://mhkuaibo.com/20200107/ODY2drij/index.m3u8
 第09集,https://mhkuaibo.com/20200108/iHCjhwSQ/index.m3u8
+第10集,https://mhkuaibo.com/20200109/ujLdEuPn/index.m3u8
 
 金枝玉叶,#genre#
 第1集,https://mhkuaibo.com/20200101/QjcpB5QB/index.m3u8
@@ -2540,3 +2541,5 @@ Voice3,#genre#
 第33集,https://mhkuaibo.com/20200107/fA6UHtm6/index.m3u8
 第34集,https://mhkuaibo.com/20200108/LvK9voPe/index.m3u8
 第35集,https://mhkuaibo.com/20200108/VYrg0Kex/index.m3u8
+第36集,https://mhkuaibo.com/20200109/VQ2wbUnP/index.m3u8
+第37集,https://mhkuaibo.com/20200109/s13zVsql/index.m3u8
