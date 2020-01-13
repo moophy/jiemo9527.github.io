@@ -2355,7 +2355,6 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第07集,https://mhkuaibo.com/20200102/tYvyDs6z/index.m3u8
 第08集,https://mhkuaibo.com/20200107/ODY2drij/index.m3u8
 第09集,https://mhkuaibo.com/20200108/iHCjhwSQ/index.m3u8
-第10集,https://mhkuaibo.com/20200109/ujLdEuPn/index.m3u8
 
 金枝玉叶,#genre#
 第1集,https://mhkuaibo.com/20200101/QjcpB5QB/index.m3u8
@@ -2541,20 +2540,3 @@ Voice3,#genre#
 第33集,https://mhkuaibo.com/20200107/fA6UHtm6/index.m3u8
 第34集,https://mhkuaibo.com/20200108/LvK9voPe/index.m3u8
 第35集,https://mhkuaibo.com/20200108/VYrg0Kex/index.m3u8
-第36集,https://mhkuaibo.com/20200109/VQ2wbUnP/index.m3u8
-第37集,https://mhkuaibo.com/20200109/s13zVsql/index.m3u8
-第38集,https://mhkuaibo.com/20200110/xQCHAsPU/index.m3u8
-第39集,https://mhkuaibo.com/20200110/RejeNvxU/index.m3u8
-第40集,https://tudou.mhyunbo.com/20200111/iY9VHdFu/index.m3u8
-第41集,https://mhkuaibo.com/20200112/9p1OdDjC/index.m3u8
-第42集,https://mhkuaibo.com/20200112/FhPTRFJ6/index.m3u8
-
-爱情公寓5,#genre#
-第1集,https://mhkuaibo.com/20200112/hNiSEkSs/index.m3u8
-第2集,https://mhkuaibo.com/20200112/XEd1w60A/index.m3u8
-第3集,https://mhkuaibo.com/20200112/9IH28ntj/index.m3u8
-第4集,https://mhkuaibo.com/20200112/SbAeLXxu/index.m3u8
-第5集,https://mhkuaibo.com/20200112/zxXm1HuG/index.m3u8
-第6集,https://mhkuaibo.com/20200112/ap2J9gB5/index.m3u8
-第7集,https://mhkuaibo.com/20200112/gymZvcPO/index.m3u8
-第8集,https://mhkuaibo.com/20200112/ampWCKN7/index.m3u8
