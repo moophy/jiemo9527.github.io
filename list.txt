@@ -2349,3 +2349,13 @@ Voice3,#genre#
 第40集,https://tudou.mhyunbo.com/20200111/iY9VHdFu/index.m3u8
 第41集,https://mhkuaibo.com/20200112/9p1OdDjC/index.m3u8
 第42集,https://mhkuaibo.com/20200112/FhPTRFJ6/index.m3u8
+
+爱情公寓5,#genre#
+第1集,https://mhkuaibo.com/20200112/hNiSEkSs/index.m3u8
+第2集,https://mhkuaibo.com/20200112/XEd1w60A/index.m3u8
+第3集,https://mhkuaibo.com/20200112/9IH28ntj/index.m3u8
+第4集,https://mhkuaibo.com/20200112/SbAeLXxu/index.m3u8
+第5集,https://mhkuaibo.com/20200112/zxXm1HuG/index.m3u8
+第6集,https://mhkuaibo.com/20200112/ap2J9gB5/index.m3u8
+第7集,https://mhkuaibo.com/20200112/gymZvcPO/index.m3u8
+第8集,https://mhkuaibo.com/20200112/ampWCKN7/index.m3u8
