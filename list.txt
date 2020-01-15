@@ -2166,6 +2166,7 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第08集,https://mhkuaibo.com/20200107/ODY2drij/index.m3u8
 第09集,https://mhkuaibo.com/20200108/iHCjhwSQ/index.m3u8
 第10集,https://mhkuaibo.com/20200109/ujLdEuPn/index.m3u8
+第11集,https://mhkuaibo.com/20200114/fkIEU7jF/index.m3u8
 
 rbq的殿下大人,#genre#
 第01集,https://mhkuaibo.com/20191224/wqfeUKdq/index.m3u8
@@ -2359,3 +2360,7 @@ Voice3,#genre#
 第6集,https://mhkuaibo.com/20200112/ap2J9gB5/index.m3u8
 第7集,https://mhkuaibo.com/20200112/gymZvcPO/index.m3u8
 第8集,https://mhkuaibo.com/20200112/ampWCKN7/index.m3u8
+第09集,https://mhkuaibo.com/20200113/9sDeJ94b/index.m3u8
+第10集,https://mhkuaibo.com/20200113/ZGzY2v8d/index.m3u8
+第11集,https://mhkuaibo.com/20200114/OQJmtedc/index.m3u8
+第12集,https://mhkuaibo.com/20200114/QW3JECFa/index.m3u8
