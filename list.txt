@@ -2167,6 +2167,8 @@ NewTV炫舞未来,http://39.135.36.157:18890/000000001000/1000000001000000515/1.
 第09集,https://mhkuaibo.com/20200108/iHCjhwSQ/index.m3u8
 第10集,https://mhkuaibo.com/20200109/ujLdEuPn/index.m3u8
 第11集,https://mhkuaibo.com/20200114/fkIEU7jF/index.m3u8
+第12集,https://mhkuaibo.com/20200115/YAqBCULC/index.m3u8
+第13集,https://mhkuaibo.com/20200116/EhB6gk8e/index.m3u8
 
 rbq的殿下大人,#genre#
 第01集,https://mhkuaibo.com/20191224/wqfeUKdq/index.m3u8
