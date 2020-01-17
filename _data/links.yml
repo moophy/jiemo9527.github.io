@@ -108,10 +108,10 @@
       style: basic
       url: https://pmjs-my.sharepoint.com/personal/jiemo_my365_tw/_layouts/15/onedrive.aspx
 
-    - name: 网易邮箱
+    - name: outlook邮箱
       icon: envelope red
       style: basic
-      url: http://email.163.com/
+      url: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1579239194&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d08a0e8b2-c9e3-eaa1-b4c0-92b0b665a738&id=292841&aadredir=1&whr=outlook.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015
 
     - name: QQ邮箱
       icon: qq black
