@@ -106,7 +106,7 @@
 
     - name: OneDrive
       style: basic
-      url: https://pmjs-my.sharepoint.com/personal/jiemo_my365_tw/_layouts/15/onedrive.aspx
+      url: https://login.microsoftonline.com/87ecbb1b-0e7e-4e07-9ab0-45b093591c7a/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=33E744700470BEF6A347C25BCE9E4F721F864D37B387E980-A64FE9F923F804FE3B78C2EFAC3C73FE87099C80F3897DCD36E7DF3C4E980DF8&redirect_uri=https:%2F%2Fpmjs-my.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6bb22c9f-1026-0000-47b7-a0728358a52e
 
     - name: outlook邮箱
       icon: envelope red
