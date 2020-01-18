@@ -2470,7 +2470,7 @@ Voice3,#genre#
 第42集,https://mhkuaibo.com/20200112/FhPTRFJ6/index.m3u8
 
 
-将夜1,#genre#
+将夜[1],#genre#
 第01集,https://4.mhbobo.com/20190822/0zovWac9/index.m3u8
 第02集,https://4.mhbobo.com/20190822/WmAvUT0D/index.m3u8
 第03集,https://4.mhbobo.com/20190822/Va9Rzxvp/index.m3u8
@@ -2532,7 +2532,7 @@ Voice3,#genre#
 第59集,https://4.mhbobo.com/20190822/VDFbKZje/index.m3u8
 第60集,https://4.mhbobo.com/20190822/YzaC6hHH/index.m3u8
 
-将夜2,#genre#
+将夜[2],#genre#
 第01集,https://mhkuaibo.com/20200113/dYZByaGV/index.m3u8
 第02集,https://mhkuaibo.com/20200113/KhSYwnaY/index.m3u8
 第03集,https://mhkuaibo.com/20200113/sXtJBFWt/index.m3u8
