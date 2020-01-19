@@ -2216,6 +2216,7 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第915集,https://mhkuaibo.com/20191222/VHs2hj39/index.m3u8
 第916集,https://mhkuaibo.com/20200105/9RqDD3En/index.m3u8
 第917集,https://mhkuaibo.com/20200112/TmyibZVj/index.m3u8
+第918集,https://mhkuaibo.com/20200119/qUYaqSL8/index.m3u8
 
 鹤唳华亭,#genre#
 第01集,https://mhbobo.com/20191111/HjdsSHWc/index.m3u8
