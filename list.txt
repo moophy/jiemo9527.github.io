@@ -2286,6 +2286,7 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第11集,https://mhkuaibo.com/20200114/fkIEU7jF/index.m3u8
 第12集,https://mhkuaibo.com/20200115/YAqBCULC/index.m3u8
 第13集,https://mhkuaibo.com/20200116/EhB6gk8e/index.m3u8
+第14集,https://mhkuaibo.com/20200121/rOnTlwJS/index.m3u8
 
 rbq的殿下大人,#genre#
 第01集,https://mhkuaibo.com/20191224/wqfeUKdq/index.m3u8
@@ -2505,3 +2506,5 @@ Voice3,#genre#
 第14集,https://mhkuaibo.com/20200119/GboS7aj7/index.m3u8
 第15集,https://mhkuaibo.com/20200120/6c12Mm80/index.m3u8
 第16集,https://mhkuaibo.com/20200120/9RGJ243R/index.m3u8
+第17集,https://mhkuaibo.com/20200121/Ri0ApeEM/index.m3u8
+第18集,https://mhkuaibo.com/20200121/o0JLoInf/index.m3u8
