@@ -2528,3 +2528,6 @@ Voice3,#genre#
 第10集,https://mhkuaibo.com/20200123/QHi0J95m/index.m3u8
 第11集,https://mhkuaibo.com/20200125/YS7UNNAL/index.m3u8
 第12集,https://mhkuaibo.com/20200125/YuohhRrg/index.m3u8
+
+囧妈,#genre#
+HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
