@@ -467,6 +467,10 @@
       style: green
       url: https://app.cloudcone.com/login
 
+    - name: Gullo
+      style: grey
+      url: https://hosting.gullo.me/client/
+
     - name: JustHost
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
