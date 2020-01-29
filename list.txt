@@ -2525,6 +2525,18 @@ Voice3,#genre#
 第22集,https://mhkuaibo.com/20200127/2xBz8Iif/index.m3u8
 第23集,https://mhkuaibo.com/20200128/PGlxqje0/index.m3u8
 第24集,https://mhkuaibo.com/20200128/dZVye1Oc/index.m3u8
+第25集,https://mhkuaibo.com/20200129/wyMiaJzG/index.m3u8
+第26集,https://mhkuaibo.com/20200129/oaIWEu5T/index.m3u8
+第27集,https://mhkuaibo.com/20200129/D5uwMwoa/index.m3u8
+第28集,https://mhkuaibo.com/20200129/xyqIG8Sn/index.m3u8
+第29集,https://mhkuaibo.com/20200129/vKFS8dRC/index.m3u8
+第30集,https://mhkuaibo.com/20200129/Xr6Fom9N/index.m3u8
+第31集,https://mhkuaibo.com/20200129/jQbkQatC/index.m3u8
+第32集,https://mhkuaibo.com/20200129/1cc2dHBR/index.m3u8
+第33集,https://mhkuaibo.com/20200129/3XNvBqK0/index.m3u8
+第34集,https://mhkuaibo.com/20200129/GBVlvItG/index.m3u8
+第35集,https://mhkuaibo.com/20200129/x8cpN7GY/index.m3u8
+第36集,https://mhkuaibo.com/20200129/BwiA3uGe/index.m3u8
 
 三生三世枕上书,#genre#
 第01集,https://mhkuaibo.com/20200122/tHKd2Zag/index.m3u8
