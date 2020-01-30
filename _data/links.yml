@@ -467,9 +467,9 @@
       style: green
       url: https://app.cloudcone.com/login
 
-    - name: Gullo
-      style: grey
-      url: https://hosting.gullo.me/client/
+    - name: NexusBytes
+      style: navy
+      url: https://nexusbytes.com/index.php
 
     - name: JustHost
       style: white
