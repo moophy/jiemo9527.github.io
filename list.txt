@@ -2291,6 +2291,7 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第16集,https://mhkuaibo.com/20200123/XMYkX64Y/index.m3u8
 第17集,https://mhkuaibo.com/20200128/mxUi2Jto/index.m3u8
 第18集,https://mhkuaibo.com/20200129/gFi5n9Gk/index.m3u8
+第19集,https://mhkuaibo.com/20200131/zQStDyOH/index.m3u8
 
 rbq的殿下大人,#genre#
 第01集,https://mhkuaibo.com/20191224/wqfeUKdq/index.m3u8
@@ -2556,6 +2557,8 @@ Voice3,#genre#
 第12集,https://mhkuaibo.com/20200125/YuohhRrg/index.m3u8
 第13集,https://mhkuaibo.com/20200130/exJnRhHR/index.m3u8
 第14集,https://mhkuaibo.com/20200130/Rdg6BeAz/index.m3u8
+第15集,https://tudou.mhyunbo.com/20200131/EQNRBKso/index.m3u8
+第16集,https://tudou.mhyunbo.com/20200130/ryC8EnMJ/index.m3u8
 
 大主宰,#genre#
 第01集,https://mhkuaibo.com/20200130/4FE97Gof/index.m3u8
@@ -2566,6 +2569,8 @@ Voice3,#genre#
 第06集,https://mhkuaibo.com/20200130/vOhAFTE5/index.m3u8
 第07集,https://mhkuaibo.com/20200130/k58GKjdd/index.m3u8
 第08集,https://mhkuaibo.com/20200130/mLgAvDmu/index.m3u8
+第09集,https://mhkuaibo.com/20200131/qMoLXSo3/index.m3u8
+第10集,https://mhkuaibo.com/20200131/bzELDPd8/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
