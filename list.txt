@@ -1583,6 +1583,18 @@ Voice3,#genre#
 第22集,https://mhkuaibo.com/20200128/uBNuIPpo/index.m3u8
 第23集,https://mhkuaibo.com/20200129/dJITbLNN/index.m3u8
 第24集,https://mhkuaibo.com/20200129/OBwwUEGU/index.m3u8
+第25集,https://mhkuaibo.com/20200203/Z1wA6nhy/index.m3u8
+第26集,https://mhkuaibo.com/20200203/SeIDvPor/index.m3u8
+第27集,https://mhkuaibo.com/20200204/T8Qnwgry/index.m3u8
+第28集,https://mhkuaibo.com/20200204/2hxRsd8J/index.m3u8
+第29集,https://mhkuaibo.com/20200204/JfLhQ2Mk/index.m3u8
+第30集,https://mhkuaibo.com/20200204/uc28ITwv/index.m3u8
+第31集,https://mhkuaibo.com/20200204/SADvPSsZ/index.m3u8
+第32集,https://mhkuaibo.com/20200204/KuwIT2xl/index.m3u8
+第33集,https://mhkuaibo.com/20200204/f7RsQuB0/index.m3u8
+第34集,https://mhkuaibo.com/20200204/8wD0whUX/index.m3u8
+第35集,https://mhkuaibo.com/20200204/iKjY1aCh/index.m3u8
+第36集,https://mhkuaibo.com/20200204/w4SSzKsW/index.m3u8
 
 爱情公寓5,#genre#
 第1集,https://mhkuaibo.com/20200112/hNiSEkSs/index.m3u8
