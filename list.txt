@@ -1654,6 +1654,10 @@ Voice3,#genre#
 第16集,https://tudou.mhyunbo.com/20200130/ryC8EnMJ/index.m3u8
 第17集,https://a.mhkuaibo.com/20200201/PEC5RxPd/index.m3u8
 第18集,https://a.mhkuaibo.com/20200201/Xya7bPSo/index.m3u8
+第19集$https://a.mhkuaibo.com/20200206/wWj8iJJr/index.m3u8
+第20集$https://a.mhkuaibo.com/20200206/8sXGhNNv/index.m3u8
+第21集$https://a.mhkuaibo.com/20200207/I6OLuDiA/index.m3u8
+第22集$https://a.mhkuaibo.com/20200207/Nsd6DrmY/index.m3u8
 
 大主宰,#genre#
 第01集,https://mhkuaibo.com/20200130/4FE97Gof/index.m3u8
@@ -1668,6 +1672,10 @@ Voice3,#genre#
 第10集,https://mhkuaibo.com/20200131/bzELDPd8/index.m3u8
 第11集,https://a.mhkuaibo.com/20200201/NX67kz0J/index.m3u8
 第12集,https://a.mhkuaibo.com/20200201/kNCgoH2m/index.m3u8
+第13集$https://a.mhkuaibo.com/20200206/V9KDf39S/index.m3u8
+第14集$https://a.mhkuaibo.com/20200206/p5yfgu0m/index.m3u8
+第15集$https://a.mhkuaibo.com/20200207/mZkQO1mI/index.m3u8
+第16集$https://a.mhkuaibo.com/20200207/tXZlFq9i/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
