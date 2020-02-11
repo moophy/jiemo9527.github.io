@@ -1477,6 +1477,10 @@ Voice3,#genre#
 第20集,https://mhkuaibo.com/20200120/Lbrohxu4/index.m3u8
 第21集,https://a.mhkuaibo.com/20200202/pqXK7LfH/index.m3u8
 第22集,https://a.mhkuaibo.com/20200202/D4gX3Q3R/index.m3u8
+第23集,https://a.mhkuaibo.com/20200209/7PUW3XZ5/index.m3u8
+第24集,https://a.mhkuaibo.com/20200209/UOfC25Ca/index.m3u8
+第25集,https://mhkuaibo.com/20200211/PsTbIOSy/index.m3u8
+第26集,https://mhkuaibo.com/20200211/MgFzYv1i/index.m3u8
 
 从前有座ljs,#genre#
 第01集,https://3.mhbobo.com/20191112/MrIbsX0L/index.m3u8
@@ -1598,6 +1602,13 @@ Voice3,#genre#
 第34集,https://mhkuaibo.com/20200204/8wD0whUX/index.m3u8
 第35集,https://mhkuaibo.com/20200204/iKjY1aCh/index.m3u8
 第36集,https://mhkuaibo.com/20200204/w4SSzKsW/index.m3u8
+第37集,https://mhkuaibo.com/20200210/rPTuyGnF/index.m3u8
+第38集,https://mhkuaibo.com/20200210/jJXK8jaM/index.m3u8
+第39集,https://mhkuaibo.com/20200210/TLBpIdE3/index.m3u8
+第40集,https://3.mhbobo.com/20200210/zkRgO78E/index.m3u8
+第41集,https://3.mhbobo.com/20200210/S54PSsS4/index.m3u8
+第42集,https://3.mhbobo.com/20200210/suV9LzF6/index.m3u8
+第43集,https://3.mhbobo.com/20200210/MbFq6Zpw/index.m3u8
 
 爱情公寓5,#genre#
 第1集,https://mhkuaibo.com/20200112/hNiSEkSs/index.m3u8
