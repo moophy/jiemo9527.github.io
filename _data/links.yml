@@ -441,6 +441,10 @@
       style: red
       url: https://hao.su/909/#menu_index_1
 
+    - name: 追新番
+      style: orange
+      url: http://www.zhuixinfan.com/main.php
+
     - name: tg资源搜索
       style: blue
       url: http://www.sssoou.com/
