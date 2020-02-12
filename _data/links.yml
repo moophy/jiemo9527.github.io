@@ -328,6 +328,10 @@
       style: light blue
       url: http://zhuixinfan.com/main.php
 
+    - name: 韩剧TV
+      style: red
+      url: https://www.hjtv5.com/
+
     - name: 碟影世界
       style: basic
       url: https://dvdhd.me/
@@ -434,16 +438,12 @@
     - name: yml在线检测
       style: black
       url: http://www.bejson.com/validators/yaml_editor/
-#    资源搜索0
+#    资源搜索
   - name: 资源搜索
     links:
     - name: 不死鸟索引
       style: red
       url: https://hao.su/909/#menu_index_1
-
-    - name: 追新番
-      style: orange
-      url: http://www.zhuixinfan.com/main.php
 
     - name: tg资源搜索
       style: blue
