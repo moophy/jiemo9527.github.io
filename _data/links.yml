@@ -449,6 +449,26 @@
       style: blue
       url: http://www.sssoou.com/
 
+    - name: 哔哩搜索
+      style: blue
+      url: https://biliworld.com/
+
+    - name: Bthub
+      style: black
+      url: https://bthub.site/
+
+    - name: 磁力宝
+      style: black
+      url: http://www.clb.biz/
+
+    - name: 磁力站
+      style: blue
+      url: http://oabt007.com/home.html
+
+    - name: 磁力狗
+      style: grey
+      url: http://ciligou.top/
+
     - name: zooqle
       style: basic
       url: https://zooqle.com/
@@ -457,9 +477,7 @@
       style: basic
       url: http://mp4ba.cc/
 
-    - name: Nyaa
-      style: basic
-      url: https://nyaa.si/
+
 #    服务器
   - name: Server
     links:
