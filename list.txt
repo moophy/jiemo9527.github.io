@@ -1697,6 +1697,8 @@ Voice3,#genre#
 第18集,https://a.mhkuaibo.com/20200208/Ftimn3RJ/index.m3u8
 第19集,https://a.mhkuaibo.com/20200213/WJldVaB5/index.m3u8
 第20集,https://a.mhkuaibo.com/20200213/I7Uw2XPo/index.m3u8
+第21集,https://a.mhkuaibo.com/20200214/wH4fWNQc/index.m3u8
+第22集,https://a.mhkuaibo.com/20200214/qYKDSMSf/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
