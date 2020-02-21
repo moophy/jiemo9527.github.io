@@ -1507,3 +1507,13 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
+
+乃木坂46,#genre#
+第01集,https://mhkuaibo.com/20191228/8TA5RJ4Z/index.m3u8
+第02集,https://mhkuaibo.com/20200104/V2Tk1kbd/index.m3u8
+第03集,https://mhkuaibo.com/20200112/TM51fvTL/index.m3u8
+第04集,https://mhkuaibo.com/20200122/SGyTWrrT/index.m3u8
+第05集,https://mhkuaibo.com/20200209/q1N76fMX/index.m3u8
+第06集,https://mhkuaibo.com/20200209/iwfObI2P/index.m3u8
+第07集,https://mhkuaibo.com/20200217/azdPbXwa/index.m3u8
+第08集,https://mhkuaibo.com/20200217/UKSZRJxa/index.m3u8
