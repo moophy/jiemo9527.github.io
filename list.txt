@@ -1462,6 +1462,18 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第28集,https://a.mhkuaibo.com/20200214/ZdgA7aRI/index.m3u8
 第29集,https://mhkuaibo.com/20200215/xi8lu2QH/index.m3u8
 第30集,https://mhkuaibo.com/20200215/KnEEdhGM/index.m3u8
+第31集,https://a.mhkuaibo.com/20200220/sOi4aaf3/index.m3u8
+第32集,https://a.mhkuaibo.com/20200220/Aue3wKbW/index.m3u8
+第33集,https://a.mhkuaibo.com/20200220/2qv1IuaX/index.m3u8
+第34集,https://a.mhkuaibo.com/20200220/S3EJx3Kf/index.m3u8
+第35集,https://a.mhkuaibo.com/20200220/WdTaU9iL/index.m3u8
+第36集,https://a.mhkuaibo.com/20200220/tDSWKcO8/index.m3u8
+第37集,https://a.mhkuaibo.com/20200220/oLinEkon/index.m3u8
+第38集,https://a.mhkuaibo.com/20200220/dDauIS2w/index.m3u8
+第39集,https://a.mhkuaibo.com/20200220/3TrC4y9E/index.m3u8
+第40集,https://a.mhkuaibo.com/20200220/fpg2SbvO/index.m3u8
+第41集,https://a.mhkuaibo.com/20200220/OsJmTPcV/index.m3u8
+第42集,https://a.mhkuaibo.com/20200220/NjM4YIwR/index.m3u8
 
 大主宰,#genre#
 第01集,https://mhkuaibo.com/20200130/4FE97Gof/index.m3u8
@@ -1488,6 +1500,10 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第22集,https://a.mhkuaibo.com/20200214/qYKDSMSf/index.m3u8
 第23集,https://mhkuaibo.com/20200215/D43xqNgg/index.m3u8
 第24集,https://mhkuaibo.com/20200215/NStGEw6p/index.m3u8
+第25集,https://a.mhkuaibo.com/20200220/B99i6haW/index.m3u8
+第26集,https://a.mhkuaibo.com/20200220/kI7tb8Vk/index.m3u8
+第27集,https://c.mhkuaibo.com/20200221/yB4h5Ald/index.m3u8
+第28集,https://c.mhkuaibo.com/20200221/yymVPtLc/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
