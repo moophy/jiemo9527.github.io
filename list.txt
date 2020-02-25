@@ -1504,6 +1504,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第26集,https://a.mhkuaibo.com/20200220/kI7tb8Vk/index.m3u8
 第27集,https://c.mhkuaibo.com/20200221/yB4h5Ald/index.m3u8
 第28集,https://c.mhkuaibo.com/20200221/yymVPtLc/index.m3u8
+第29集,https://mhkuaibo.com/20200222/ckTst7u3/index.m3u8
+第30集,https://mhkuaibo.com/20200222/7Yr24ndY/index.m3u8
 
 囧妈,#genre#
 HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
