@@ -1474,6 +1474,20 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第40集,https://a.mhkuaibo.com/20200220/fpg2SbvO/index.m3u8
 第41集,https://a.mhkuaibo.com/20200220/OsJmTPcV/index.m3u8
 第42集,https://a.mhkuaibo.com/20200220/NjM4YIwR/index.m3u8
+第43集,https://c.mhkuaibo.com/20200227/Kq3fXL4x/index.m3u8
+第44集,https://mhkuaibo.com/20200228/qn8o26wc/index.m3u8
+第45集,https://mhkuaibo.com/20200228/3Z3Dcm1i/index.m3u8
+第46集,https://mhkuaibo.com/20200228/J0EMX2pn/index.m3u8
+第47集,https://mhkuaibo.com/20200228/55ULJBIA/index.m3u8
+第48集,https://mhkuaibo.com/20200228/ibSCLje8/index.m3u8
+第49集,https://mhkuaibo.com/20200305/lWhnzx0B/index.m3u8
+第50集,https://mhkuaibo.com/20200305/CKikVnnX/index.m3u8
+第51集,https://mhkuaibo.com/20200306/oWt73WuP/index.m3u8
+第52集,https://a.mhkuaibo.com/20200305/VBvfwNi6/index.m3u8
+第53集,https://a.mhkuaibo.com/20200305/PppBzMkC/index.m3u8
+第54集,https://mhkuaibo.com/20200306/0gN5NTF7/index.m3u8
+第55集,https://a.mhkuaibo.com/20200305/LoKBXd0K/index.m3u8
+第56集,https://c.mhkuaibo.com/20200306/koTeTo5o/index.m3u8
 
 大主宰,#genre#
 第01集,https://mhkuaibo.com/20200130/4FE97Gof/index.m3u8
@@ -1506,9 +1520,24 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第28集,https://c.mhkuaibo.com/20200221/yymVPtLc/index.m3u8
 第29集,https://mhkuaibo.com/20200222/ckTst7u3/index.m3u8
 第30集,https://mhkuaibo.com/20200222/7Yr24ndY/index.m3u8
-
-囧妈,#genre#
-HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
+第31集,https://mhkuaibo.com/20200227/yP4Ct36o/index.m3u8
+第32集,https://mhkuaibo.com/20200227/neGdrU5F/index.m3u8
+第33集,https://mhkuaibo.com/20200228/A3E8wBB8/index.m3u8
+第34集,https://mhkuaibo.com/20200228/WLAypl4y/index.m3u8
+第35集,https://mhkuaibo.com/20200229/4bSmhy2L/index.m3u8
+第36集,https://mhkuaibo.com/20200229/lN4rqxge/index.m3u8
+第37集,https://tudou.mhyunbo.com/20200229/DDcJ43fE/index.m3u8
+第38集,https://tudou.mhyunbo.com/20200229/0mi5b4T4/index.m3u8
+第39集,https://tudou.mhyunbo.com/20200229/bs1LS8Ns/index.m3u8
+第40集,https://tudou.mhyunbo.com/20200229/ecJLeLry/index.m3u8
+第41集,https://tudou.mhyunbo.com/20200229/ZyBQInr2/index.m3u8
+第42集,https://tudou.mhyunbo.com/20200229/PkC0V7cv/index.m3u8
+第43集,https://tudou.mhyunbo.com/20200229/iWdsS1qz/index.m3u8
+第44集,https://tudou.mhyunbo.com/20200229/qcCrZccg/index.m3u8
+第45集,https://tudou.mhyunbo.com/20200229/rz7cZZLI/index.m3u8
+第46集,https://tudou.mhyunbo.com/20200229/62NC38P3/index.m3u8
+第47集,https://tudou.mhyunbo.com/20200229/jB7SLvjD/index.m3u8
+第48集,https://tudou.mhyunbo.com/20200229/mv2YEx7U/index.m3u8
 
 乃木坂46,#genre#
 第01集,https://mhkuaibo.com/20191228/8TA5RJ4Z/index.m3u8
@@ -1519,3 +1548,4 @@ HD,https://tudou.mhyunbo.com/20200125/Nm6HOqoM/index.m3u8
 第06集,https://mhkuaibo.com/20200209/iwfObI2P/index.m3u8
 第07集,https://mhkuaibo.com/20200217/azdPbXwa/index.m3u8
 第08集,https://mhkuaibo.com/20200217/UKSZRJxa/index.m3u8
+第09集,https://mhkuaibo.com/20200301/F1HA85qo/index.m3u8
