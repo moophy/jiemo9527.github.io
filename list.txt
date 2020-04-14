@@ -1250,17 +1250,6 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
-乃木坂46,#genre#
-第01集,https://mhkuaibo.com/20191228/8TA5RJ4Z/index.m3u8
-第02集,https://mhkuaibo.com/20200104/V2Tk1kbd/index.m3u8
-第03集,https://mhkuaibo.com/20200112/TM51fvTL/index.m3u8
-第04集,https://mhkuaibo.com/20200122/SGyTWrrT/index.m3u8
-第05集,https://mhkuaibo.com/20200209/q1N76fMX/index.m3u8
-第06集,https://mhkuaibo.com/20200209/iwfObI2P/index.m3u8
-第07集,https://mhkuaibo.com/20200217/azdPbXwa/index.m3u8
-第08集,https://mhkuaibo.com/20200217/UKSZRJxa/index.m3u8
-第09集,https://mhkuaibo.com/20200301/F1HA85qo/index.m3u8
-第10集,https://mhkuaibo.com/20200305/2GeoHA0r/index.m3u8
 
 我是余欢水,#genre#
 第01集,https://mahua-kb.com/20200406/hyW9S7vu/index.m3u8
@@ -1269,6 +1258,12 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第04集,https://mahua-kb.com/20200406/ANN3SPbB/index.m3u8
 第05集,https://mahua-kb.com/20200407/Ng9XGgvY/index.m3u8
 第06集,https://mahua-kb.com/20200407/OcRIgMK1/index.m3u8
+第07集,https://mahua-kb.com/20200413/sXebtmxp/index.m3u8
+第08集,https://mahua-kb.com/20200413/wzUc09FI/index.m3u8
+第09集,https://mahua-kb.com/20200413/LpXgkL9W/index.m3u8
+第10集,https://mahua-kb.com/20200413/jIman1rv/index.m3u8
+第11集,https://mahua-kb.com/20200413/Fr1lhS0i/index.m3u8
+第12集,https://mahua-kb.com/20200413/Kk5bXoVd/index.m3u8
 
 鬓边不是海棠红,#genre#
 第01集,https://c.mhkuaibo.com/20200320/AIFCts4g/index.m3u8
@@ -1301,6 +1296,25 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第28集,https://mahua-kb.com/20200406/Vfcd4Ezl/index.m3u8
 第29集,https://mahua-kb.com/20200410/cjMXIN26/index.m3u8
 第30集,https://mahua-kb.com/20200410/Ue51hmjO/index.m3u8
+第31集,https://mahua-kb.com/20200411/ZoUMA7D3/index.m3u8
+第32集,https://mahua-kb.com/20200411/8EZ62z0a/index.m3u8
+第33集,https://mahua-kb.com/20200412/DATRe5qV/index.m3u8
+第34集,https://mahua-kb.com/20200412/QjeUsdl1/index.m3u8
+第35集,https://mahua-kb.com/20200413/OvfT7AjL/index.m3u8
+第36集,https://mahua-kb.com/20200413/ETTI4u84/index.m3u8
+第37集,https://mahua-kb.com/20200413/MI9k2Q54/index.m3u8
+第38集,https://mahua-kb.com/20200413/56V2MrL6/index.m3u8
+第39集,https://mahua-kb.com/20200413/Ukg54VSS/index.m3u8
+第40集,https://mahua-kb.com/20200413/YSgioq1I/index.m3u8
+第41集,https://mahua-kb.com/20200413/SbmosHDR/index.m3u8
+第42集,https://mahua-kb.com/20200414/u0gVaM91/index.m3u8
+第43集,https://mahua-kb.com/20200414/zNikWJYe/index.m3u8
+第44集,https://mahua-kb.com/20200414/4IwzMi6R/index.m3u8
+第45集,https://mahua-kb.com/20200414/arEjnNlo/index.m3u8
+第46集,https://mahua-kb.com/20200414/dLu0WY96/index.m3u8
+第47集,https://mahua-kb.com/20200414/frO4ihkS/index.m3u8
+第48集,https://mahua-kb.com/20200414/BmxhUpyN/index.m3u8
+第49集,https://mahua-kb.com/20200413/xC2bANnj/index.m3u8
 
 三千鸦杀,#genre#
 第01集,https://a.mhkuaibo.com/20200319/ptNT7hhf/index.m3u8
@@ -1325,3 +1339,30 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第20集,https://mahua-kb.com/20200409/L8ynTUXu/index.m3u8
 第21集,https://mahua-kb.com/20200410/ruIV0WmQ/index.m3u8
 第22集,https://mahua-kb.com/20200410/1QW4MWd5/index.m3u8
+第23集,https://mahua-kb.com/20200411/6UMKfFoA/index.m3u8
+第24集,https://mahua-kb.com/20200411/eYX4hf1S/index.m3u8
+第25集,https://mahua-kb.com/20200411/EUMXBDGE/index.m3u8
+第26集,https://mahua-kb.com/20200411/dHlap34n/index.m3u8
+第27集,https://mahua-kb.com/20200411/F1RZCav5/index.m3u8
+第28集,https://mahua-kb.com/20200411/FBSshv3c/index.m3u8
+第29集,https://mahua-kb.com/20200411/vJQkOxkk/index.m3u8
+第30集,https://mahua-kb.com/20200411/0JBg9h23/index.m3u8
+
+鬼吹灯之龙岭迷窟,#genre#
+第01集,https://mahua-kb.com/20200401/AWgU77w2/index.m3u8
+第02集,https://mahua-kb.com/20200401/xJmxhlgh/index.m3u8
+第03集,https://mahua-kb.com/20200401/2xp4MG6e/index.m3u8
+第04集,https://mahua-kb.com/20200401/2CITnlyW/index.m3u8
+第05集,https://mahua-kb.com/20200401/qKRlqoNy/index.m3u8
+第06集,https://mahua-kb.com/20200401/TmoY8zeN/index.m3u8
+第07集,https://mahua-kb.com/20200408/Sa3ePhID/index.m3u8
+第08集,https://mahua-kb.com/20200408/3ZVEjFZB/index.m3u8
+第09集,https://mahua-kb.com/20200408/Y8kp16gh/index.m3u8
+
+夫妻的世界,#genre#
+第01集,https://mahua-kb.com/20200327/YpzzApmd/index.m3u8
+第02集,https://mahua-kb.com/20200328/VGhq6nUy/index.m3u8
+第03集,https://mahua-kb.com/20200403/xWfidmnV/index.m3u8
+第04集,https://mahua-kb.com/20200404/7Ez3zu3l/index.m3u8
+第05集,https://mahua-kb.com/20200410/xpBZo6Rm/index.m3u8
+第06集,https://mahua-kb.com/20200411/doYzNuFT/index.m3u8
