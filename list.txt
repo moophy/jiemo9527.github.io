@@ -1293,6 +1293,9 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第05集,https://mahua-kb.com/20200410/xpBZo6Rm/index.m3u8
 第06集,https://mahua-kb.com/20200411/doYzNuFT/index.m3u8
 第07集,https://mahua-kb.com/20200417/hgu9JaGP/index.m3u8
+第08集,https://mahua-kb.com/20200418/Zhr05TKa/index.m3u8
+第09集,https://mahua-kb.com/20200424/mG4RUS89/index.m3u8
+第10集,https://mahua-kb.com/20200425/gPFQPUSy/index.m3u8
 
 清平乐,#genre#
 第01集,https://mahua-kb.com/20200407/po85IpCC/index.m3u8
@@ -1325,3 +1328,10 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第28集,https://mahua-kb.com/20200422/eQthWr3Y/index.m3u8
 第29集,https://mahua-kb.com/20200423/0OQOtxGy/index.m3u8
 第30集,https://mahua-kb.com/20200423/oV9pQNdN/index.m3u8
+第31集,https://mahua-kb.com/20200425/BCU3tHu3/index.m3u8
+第32集,https://mahua-kb.com/20200426/74C0Y8ap/index.m3u8
+第33集,https://mahua-kb.com/20200426/MUSR3NTy/index.m3u8
+第34集,https://mahua-kb.com/20200427/RhbBiamE/index.m3u8
+第35集,https://mahua-kb.com/20200427/cXHyqOo9/index.m3u8
+第36集,https://mahua-kb.com/20200428/5mkYgePH/index.m3u8
+第37集,https://mahua-kb.com/20200428/EPkySaS4/index.m3u8
