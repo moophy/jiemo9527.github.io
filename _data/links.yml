@@ -449,6 +449,18 @@
       style: blue
       url: http://www.sssoou.com/
 
+    - name: 电影淘淘
+      style:  green
+      url: http://www.dytt.com
+
+    - name: 高清MP4
+      style:  black
+      url: http://www.mp4ba.cc/
+
+    - name: zooqle
+      style: basic
+      url: https://zooqle.com/
+
     - name: 哔哩搜索
       style: blue
       url: https://biliworld.com/
@@ -469,13 +481,6 @@
       style: grey
       url: http://ciligou.top/
 
-    - name: 高清MP4
-      style:  black
-      url: http://www.mp4ba.cc/
-
-    - name: zooqle
-      style: basic
-      url: https://zooqle.com/
 
 
 
