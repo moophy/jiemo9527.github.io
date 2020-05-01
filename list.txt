@@ -1251,20 +1251,6 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
 
-我是余欢水,#genre#
-第01集,https://mahua-kb.com/20200406/hyW9S7vu/index.m3u8
-第02集,https://mahua-kb.com/20200406/4vUuGEPs/index.m3u8
-第03集,https://mahua-kb.com/20200406/hAhQiDil/index.m3u8
-第04集,https://mahua-kb.com/20200406/ANN3SPbB/index.m3u8
-第05集,https://mahua-kb.com/20200407/Ng9XGgvY/index.m3u8
-第06集,https://mahua-kb.com/20200407/OcRIgMK1/index.m3u8
-第07集,https://mahua-kb.com/20200413/sXebtmxp/index.m3u8
-第08集,https://mahua-kb.com/20200413/wzUc09FI/index.m3u8
-第09集,https://mahua-kb.com/20200413/LpXgkL9W/index.m3u8
-第10集,https://mahua-kb.com/20200413/jIman1rv/index.m3u8
-第11集,https://mahua-kb.com/20200413/Fr1lhS0i/index.m3u8
-第12集,https://mahua-kb.com/20200413/Kk5bXoVd/index.m3u8
-
 鬼吹灯之龙岭迷窟,#genre#
 第01集,https://mahua-kb.com/20200401/AWgU77w2/index.m3u8
 第02集,https://mahua-kb.com/20200401/xJmxhlgh/index.m3u8
@@ -1335,3 +1321,25 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第35集,https://mahua-kb.com/20200427/cXHyqOo9/index.m3u8
 第36集,https://mahua-kb.com/20200428/5mkYgePH/index.m3u8
 第37集,https://mahua-kb.com/20200428/EPkySaS4/index.m3u8
+第38集,https://mahua-kb.com/20200429/OY3byayd/index.m3u8
+第39集,https://mahua-kb.com/20200429/ACZx9VvO/index.m3u8
+第40集,https://mahua-kb.com/20200430/PjruKO9u/index.m3u8
+第41集,https://mahua-kb.com/20200430/MvZDHXkD/index.m3u8
+
+芦苇,#genre#
+第01集,https://d.mhkuaibo.com/20200428/KjncfIbO/index.m3u8
+第02集,https://mahua-kb.com/20200428/n5PSW115/index.m3u8
+第03集,https://d.mhkuaibo.com/20200428/GvStjA94/index.m3u8
+第04集,https://mahua-kb.com/20200428/9zNDzDcH/index.m3u8
+第05集,https://mahua-kb.com/20200428/vuutyiff/index.m3u8
+第06集,https://mahua-kb.com/20200428/KHWArKSc/index.m3u8
+第07集,https://mahua-kb.com/20200428/HCsmVEfG/index.m3u8
+第08集,https://mahua-kb.com/20200428/xVTTLH1f/index.m3u8
+第09集,https://mahua-kb.com/20200428/FIwuUiPi/index.m3u8
+第10集,https://mahua-kb.com/20200428/RanNyTjI/index.m3u8
+
+国王：永远的君主，#genre#
+第01集,https://mahua-kb.com/20200417/Fmf4h5o7/index.m3u8
+第02集,https://mahua-kb.com/20200418/r0ahoef7/index.m3u8
+第03集,https://mahua-kb.com/20200424/5eEQVEHk/index.m3u8
+第04集,https://mahua-kb.com/20200425/34Mx2bjo/index.m3u8
