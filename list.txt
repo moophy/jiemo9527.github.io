@@ -1250,27 +1250,6 @@ BesTV 4k,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
 CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 爱上4K,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8
 
-
-鬼吹灯之龙岭迷窟,#genre#
-第01集,https://mahua-kb.com/20200401/AWgU77w2/index.m3u8
-第02集,https://mahua-kb.com/20200401/xJmxhlgh/index.m3u8
-第03集,https://mahua-kb.com/20200401/2xp4MG6e/index.m3u8
-第04集,https://mahua-kb.com/20200401/2CITnlyW/index.m3u8
-第05集,https://mahua-kb.com/20200401/qKRlqoNy/index.m3u8
-第06集,https://mahua-kb.com/20200401/TmoY8zeN/index.m3u8
-第07集,https://mahua-kb.com/20200408/Sa3ePhID/index.m3u8
-第08集,https://mahua-kb.com/20200408/3ZVEjFZB/index.m3u8
-第09集,https://mahua-kb.com/20200408/Y8kp16gh/index.m3u8
-第10集,https://mahua-kb.com/20200415/g5gk3e1b/index.m3u8
-第11集,https://mahua-kb.com/20200415/rl3EaQsQ/index.m3u8
-第12集,https://mahua-kb.com/20200415/qZ0BOKPG/index.m3u8
-第13集,https://b.mahua-kb.com/20200415/EQjyvnYR/index.m3u8
-第14集,https://b.mahua-kb.com/20200415/vTwxtc5y/index.m3u8
-第15集,https://b.mahua-kb.com/20200415/jLubR8bS/index.m3u8
-第16集,https://mahua-kb.com/20200422/aMLw3GqA/index.m3u8
-第17集,https://mahua-kb.com/20200422/bAe3iMlJ/index.m3u8
-第18集,https://mahua-kb.com/20200422/o8sOPTL8/index.m3u8
-
 夫妻的世界,#genre#
 第01集,https://mahua-kb.com/20200327/YpzzApmd/index.m3u8
 第02集,https://mahua-kb.com/20200328/VGhq6nUy/index.m3u8
@@ -1282,6 +1261,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第08集,https://mahua-kb.com/20200418/Zhr05TKa/index.m3u8
 第09集,https://mahua-kb.com/20200424/mG4RUS89/index.m3u8
 第10集,https://mahua-kb.com/20200425/gPFQPUSy/index.m3u8
+第11集,https://mahua-kb.com/20200501/bZVMvZqj/index.m3u8
+第12集,https://mahua-kb.com/20200502/CTx3xwq3/index.m3u8
 
 清平乐,#genre#
 第01集,https://mahua-kb.com/20200407/po85IpCC/index.m3u8
@@ -1325,6 +1306,9 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第39集,https://mahua-kb.com/20200429/ACZx9VvO/index.m3u8
 第40集,https://mahua-kb.com/20200430/PjruKO9u/index.m3u8
 第41集,https://mahua-kb.com/20200430/MvZDHXkD/index.m3u8
+第42集,https://mahua-kb.com/20200501/ULP5ePrp/index.m3u8
+第43集,https://mahua-kb.com/20200501/csoRM4qi/index.m3u8
+第44集,https://mahua-kb.com/20200502/D9JBnJ8z/index.m3u8
 
 芦苇,#genre#
 第01集,https://d.mhkuaibo.com/20200428/KjncfIbO/index.m3u8
@@ -1337,9 +1321,13 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第08集,https://mahua-kb.com/20200428/xVTTLH1f/index.m3u8
 第09集,https://mahua-kb.com/20200428/FIwuUiPi/index.m3u8
 第10集,https://mahua-kb.com/20200428/RanNyTjI/index.m3u8
+第11集,https://mahua-kb.com/20200502/fWWrMPZd/index.m3u8
+第12集,https://mahua-kb.com/20200503/drRVWRSE/index.m3u8
 
 国王：永远的君主，#genre#
 第01集,https://mahua-kb.com/20200417/Fmf4h5o7/index.m3u8
 第02集,https://mahua-kb.com/20200418/r0ahoef7/index.m3u8
 第03集,https://mahua-kb.com/20200424/5eEQVEHk/index.m3u8
 第04集,https://mahua-kb.com/20200425/34Mx2bjo/index.m3u8
+第05集,https://mahua-kb.com/20200501/q8djfsei/index.m3u8
+第06集,https://mahua-kb.com/20200502/bNw0JRr4/index.m3u8
