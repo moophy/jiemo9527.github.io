@@ -82,6 +82,10 @@
       style: light blue
       url: https://jiemo-vi.top
 
+    - name: 谷歌分析
+      style: light orange
+      url: https://analytics.google.com/analytics/web/
+
     - name: IPAddress
       style: black
       url: https://www.ipaddress.com/
