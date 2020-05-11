@@ -1263,6 +1263,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第10集,https://mahua-kb.com/20200425/gPFQPUSy/index.m3u8
 第11集,https://mahua-kb.com/20200501/bZVMvZqj/index.m3u8
 第12集,https://mahua-kb.com/20200502/CTx3xwq3/index.m3u8
+第13集,https://mahua-kb.com/20200508/KLbTucni/index.m3u8
+第14集,https://mahua-kb.com/20200509/jpOq9BHw/index.m3u8
 
 清平乐,#genre#
 第01集,https://mahua-kb.com/20200407/po85IpCC/index.m3u8
@@ -1309,6 +1311,18 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第42集,https://mahua-kb.com/20200501/ULP5ePrp/index.m3u8
 第43集,https://mahua-kb.com/20200501/csoRM4qi/index.m3u8
 第44集,https://mahua-kb.com/20200502/D9JBnJ8z/index.m3u8
+第45集,https://mahua-kb.com/20200504/yPi5n4NZ/index.m3u8
+第46集,https://mahua-kb.com/20200504/NmlPu9N8/index.m3u8
+第47集,https://mahua-kb.com/20200505/5H3wobB2/index.m3u8
+第48集,https://mahua-kb.com/20200505/37uF5x6m/index.m3u8
+第49集,https://mahua-kb.com/20200506/MweDvMrg/index.m3u8
+第50集,https://mahua-kb.com/20200506/LS2OoTC5/index.m3u8
+第51集,https://mahua-kb.com/20200507/MDHyqaTt/index.m3u8
+第52集,https://mahua-kb.com/20200507/jmKMq4eo/index.m3u8
+第53集,https://mahua-kb.com/20200508/rc4iLoeM/index.m3u8
+第54集,https://mahua-kb.com/20200509/17pCpnqx/index.m3u8
+第55集,https://mahua-kb.com/20200510/IkgnHY5C/index.m3u8
+第56集,https://mahua-kb.com/20200510/GeJzk2Up/index.m3u8
 
 芦苇,#genre#
 第01集,https://d.mhkuaibo.com/20200428/KjncfIbO/index.m3u8
@@ -1323,6 +1337,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第10集,https://mahua-kb.com/20200428/RanNyTjI/index.m3u8
 第11集,https://mahua-kb.com/20200502/fWWrMPZd/index.m3u8
 第12集,https://mahua-kb.com/20200503/drRVWRSE/index.m3u8
+第13集,https://mahua-kb.com/20200509/4gCLMi5k/index.m3u8
+第14集,https://mahua-kb.com/20200510/iiotpJhv/index.m3u8
 
 国王：永远的君主，#genre#
 第01集,https://mahua-kb.com/20200417/Fmf4h5o7/index.m3u8
@@ -1331,3 +1347,5 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第04集,https://mahua-kb.com/20200425/34Mx2bjo/index.m3u8
 第05集,https://mahua-kb.com/20200501/q8djfsei/index.m3u8
 第06集,https://mahua-kb.com/20200502/bNw0JRr4/index.m3u8
+第07集,https://mahua-kb.com/20200508/RoKyYz0d/index.m3u8
+第08集,https://mahua-kb.com/20200509/g6Acad6J/index.m3u8
