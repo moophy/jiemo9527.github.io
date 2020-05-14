@@ -1323,6 +1323,12 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第54集,https://mahua-kb.com/20200509/17pCpnqx/index.m3u8
 第55集,https://mahua-kb.com/20200510/IkgnHY5C/index.m3u8
 第56集,https://mahua-kb.com/20200510/GeJzk2Up/index.m3u8
+第57集,https://mahua-kb.com/20200511/t4GdXppk/index.m3u8
+第58集,https://mahua-kb.com/20200511/HauDSo3i/index.m3u8
+第59集,https://mahua-kb.com/20200512/JxQxwZeu/index.m3u8
+第60集,https://mahua-kb.com/20200512/iuLObh5r/index.m3u8
+第61集,https://mahua-kb.com/20200513/SqQ182hW/index.m3u8
+第62集,https://mahua-kb.com/20200513/0LX4uGQZ/index.m3u8
 
 芦苇,#genre#
 第01集,https://d.mhkuaibo.com/20200428/KjncfIbO/index.m3u8
