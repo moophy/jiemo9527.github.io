@@ -1,43 +1,52 @@
 function doPost(e){
-  var estringa = JSON.parse(e.postData.contents);
-  var payload = identificar(estringa);
-  var data = {
-    "method": "post",
-    "payload": payload
-  }
-  UrlFetchApp.fetch("https://api.telegram.org/bot1204445809:AAHfEyrip5DkXBCfh7wgSYbd_x1A6fUq2fA/", data);
-}
-
-function identificar(e){
-  if (e.message.text){
-    var mensaje = {
-      "method": "sendMessage",
-      "chat_id": e.message.chat.id,
-      "text": e.message.text,
-    } 
-  }
-  else if (e.message.sticker){
-    var mensaje = {
-      "method": "sendSticker",
-      "chat_id": e.message.chat.id,
-      "sticker": e.message.sticker.file_id
-    }
-   }
-  else if (e.message.photo){
-    var array = e.message.photo;
-    var text = array[1];
-    var mensaje = {
-      "method": "sendPhoto",
-      "chat_id": e.message.chat.id,
-      "photo": text.file_id
-    }
-   }
-    else {
-    var mensaje = {
-      "method": "sendMessage",
-      "chat_id": e.message.chat.id,
-      "text": "Try other stuff"
-    }
-   }
-  return mensaje
-}
+            var dataFromTelegram = {
+                "method": "post",
+                "payload": e.postData.contents
+            }
+            var body = JSON.parse(e.postData.contents);
+            body.message.chat.id = body.message.chat.id + '';
+            var payload = preparePayload(body);
+            var data = {
+                "method": "post",
+                "payload": payload
+            }
+            var dataParam = {
+                "method": "post",
+                "payload": payload
+            }
+            UrlFetchApp.fetch("https://api.telegram.org/bot1204445809:AAE0OM12bXnrrR9SLy6jTwPMU7AW3yVQZAI/", data);
+        }
+        function preparePayload(body){
+            var payload;
+            if (body.message.text){
+                payload = {
+                    "method": "sendMessage",
+                    "chat_id": body.message.chat.id,
+                    "text": body.message.text,
+                }
+            }
+            else if (body.message.sticker){
+                payload = {
+                    "method": "sendSticker",
+                    "chat_id": body.message.chat.id,
+                    "sticker": body.message.sticker.file_id
+                }
+            }
+            else if (body.message.photo){
+                array = body.message.photo;
+                text = array[1];
+                payload = {
+                    "method": "sendPhoto",
+                    "chat_id": body.message.chat.id,
+                    "photo": text.file_id
+                }
+            }
+            else {
+                payload = {
+                    "method": "sendMessage",
+                    "chat_id": body.message.chat.id,
+                    "text": "Try other stuff"
+                }
+            }
+            return payload
+        }
