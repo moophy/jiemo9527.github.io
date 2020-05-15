@@ -1,52 +1,20 @@
-function doPost(e){
-            var dataFromTelegram = {
-                "method": "post",
-                "payload": e.postData.contents
-            }
-            var body = JSON.parse(e.postData.contents);
-            body.message.chat.id = body.message.chat.id + '';
-            var payload = preparePayload(body);
-            var data = {
-                "method": "post",
-                "payload": payload
-            }
-            var dataParam = {
-                "method": "post",
-                "payload": payload
-            }
-            UrlFetchApp.fetch("https://api.telegram.org/bot1204445809:AAE0OM12bXnrrR9SLy6jTwPMU7AW3yVQZAI/", data);
-        }
-        function preparePayload(body){
-            var payload;
-            if (body.message.text){
-                payload = {
-                    "method": "sendMessage",
-                    "chat_id": body.message.chat.id,
-                    "text": body.message.text,
-                }
-            }
-            else if (body.message.sticker){
-                payload = {
-                    "method": "sendSticker",
-                    "chat_id": body.message.chat.id,
-                    "sticker": body.message.sticker.file_id
-                }
-            }
-            else if (body.message.photo){
-                array = body.message.photo;
-                text = array[1];
-                payload = {
-                    "method": "sendPhoto",
-                    "chat_id": body.message.chat.id,
-                    "photo": text.file_id
-                }
-            }
-            else {
-                payload = {
-                    "method": "sendMessage",
-                    "chat_id": body.message.chat.id,
-                    "text": "Try other stuff"
-                }
-            }
-            return payload
-        }
+const TelegramBot = require('node-telegram-bot-api');
+
+const token = '1204445809:AAE0OM12bXnrrR9SLy6jTwPMU7AW3yVQZAI';
+const bot = new TelegramBot(token, {
+  polling: true
+});
+
+
+
+bot.onText(/\/hentai/, function onLoveText(msg) {
+  bot.sendMessage(msg.chat.id, 'Are you a hetai?');
+});
+
+
+bot.onText(/\/echo (.+)/, (msg, match) => {
+
+  const chatId = msg.chat.id;
+  const resp = match[1];
+  bot.sendMessage(chatId, resp);
+});
