@@ -32,55 +32,24 @@
       style: basic
       url: http://www.dangdang.com/
 
-    # - name: 严选
-    #   style: basic
-    #   url: http://you.163.com/
-
-    - name: UNIQLO
-      style: red
-      url: http://www.uniqlo.cn/
-
-    - name: MUJI
-      style: basic
-      url: http://www.muji.com.cn/
-
-    - name: IKEA
-      style: yellow
-      url: https://www.ikea.cn/
-
-    - name: Decathlon
-      style: blue
-      url: https://www.decathlon.com.cn/
-
-    - name: 造作
-      style: basic
-      url: https://zaozuo.com/
-
-    - name: 锤子
-      style: basic
-      url: http://www.smartisan.com/
-
     - name: 大疆
       style: black
       url: https://www.dji.com/
 
-    - name: 小米
-      style: orange
-      url: https://www.mi.com/
-
-    - name: 有品
-      style: brown
-      url: https://xiaomiyoupin.com/
 #    工具
   - name: 工具
     links:
-    - name: kodexplorer—ONE
+    - name: kodexplorer—SUP
       style: green
       url: https://jiemo-sup2020.top
 
     - name: kodexplorer—VI
       style: light blue
       url: https://jiemo-vi.top
+
+    - name: 合集网
+      style: light yellow
+      url: https://www.heji.ltd
 
     - name: 谷歌分析
       style: light orange
@@ -99,18 +68,13 @@
       style: basic
       url: http://www.12306.cn/
 
-    - name: 快递查询
-      icon: truck olive
-      style: basic
-      url: http://www.kuaidi100.com/
-
-    - name: 百度网盘
-      style: basic
-      url: https://pan.baidu.com/disk/home?#/all?path=%2F&vmode=list
-
     - name: OneDrive
       style: basic
       url: https://login.microsoftonline.com/87ecbb1b-0e7e-4e07-9ab0-45b093591c7a/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=33E744700470BEF6A347C25BCE9E4F721F864D37B387E980-A64FE9F923F804FE3B78C2EFAC3C73FE87099C80F3897DCD36E7DF3C4E980DF8&redirect_uri=https:%2F%2Fpmjs-my.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6bb22c9f-1026-0000-47b7-a0728358a52e
+
+    - name: MultCloud
+      style: blue
+      url: https://www.multcloud.com/tw/sign
 
     - name: outlook邮箱
       icon: envelope red
@@ -121,11 +85,6 @@
       icon: qq black
       style: basic
       url: https://mail.qq.com/
-
-    - name: 新浪邮箱
-      icon: envelope red
-      style: basic
-      url: https://mail.sina.com.cn/
 
     - name: Gmail
       icon: google red
@@ -146,11 +105,6 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 彩云天气
-      icon: cloud olive
-      style: basic
-      url: http://caiyunapp.com/map
-
     - name: 天眼查
       style: basic
       url: https://www.tianyancha.com/
@@ -162,10 +116,6 @@
     - name: 硕鼠解析
       style: grey
       url: http://www.flvcd.com/index.htm
-
-    - name: MultCloud
-      style: blue
-      url: https://www.multcloud.com/tw/sign
 #    社交
   - name: 社交
     links:
@@ -197,11 +147,6 @@
       style: basic
       url: https://www.zhihu.com/
 
-    - name: Quora
-      icon: quora red
-      style: basic
-      url: https://www.quora.com/
-
     - name: Facebook
       icon: facebook f blue
       style: basic
@@ -211,11 +156,6 @@
       icon: google plus g red
       style: basic
       url: https://plus.google.com/
-
-    - name: Tumblr
-      icon: tumblr blue
-      style: basic
-      url: https://www.tumblr.com/
 
     - name: Instagram
       icon: instagram pink
@@ -227,10 +167,6 @@
       style: basic
       url: https://github.com/
 
-    - name: LinkedIn
-      icon: linkedin blue
-      style: basic
-      url: https://www.linkedin.com/
 #    学习
   - name: 学习
     links:
@@ -277,15 +213,15 @@
       url: https://www.y-english.org/
 #    影视
   - name: 影视
-    links: 
-    - name: 优酷
-      style: basic
-      url: https://youku.com/
-
+    links:
     - name: Youtube
       icon: youtube red
       style: basic
       url: https://youtube.com/
+
+    - name: 优酷
+      style: basic
+      url: https://youku.com/
 
     - name: 爱奇艺
       style: green
@@ -307,22 +243,10 @@
       style: basic
       url: https://acfun.cn/
 
-    - name: 腾讯动漫
-      style: basic
-      url: https://ac.qq.com/
-
-    - name: 虾米
-      style: orange
-      url: https://xiami.com/
-
     - name: 豆瓣电影
       icon: film blue
       style: basic
       url: https://movie.douban.com/
-
-    - name: 麻花采集
-      style: blue
-      url: http://www.mahuazy.com/
 
     - name: 人人
       style: blue
@@ -335,10 +259,6 @@
     - name: 韩剧TV
       style: pink
       url: https://www.hjtv5.com/
-
-    - name: 碟影世界
-      style: basic
-      url: https://dvdhd.me/
 
     - name: 猪猪
       style: purple
@@ -355,7 +275,6 @@
     - name: 影视全搜索
       style: purple
       url: http://v.eyunzhu.com/
-
 
 - categories:
 #    学术
@@ -469,10 +388,6 @@
       style: basic
       url: https://zooqle.com/
 
-    - name: 哔哩搜索
-      style: blue
-      url: https://biliworld.com/
-
     - name: Bthub
       style: black
       url: https://bthub.site/
@@ -481,17 +396,9 @@
       style: black
       url: http://www.clb.biz/
 
-    - name: 磁力站
-      style: blue
-      url: http://oabt007.com/home.html
-
     - name: 磁力狗
       style: grey
       url: http://ciligou.top/
-
-
-
-
 #    服务器
   - name: Server
     links:
