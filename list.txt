@@ -1265,6 +1265,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第12集,https://mahua-kb.com/20200502/CTx3xwq3/index.m3u8
 第13集,https://mahua-kb.com/20200508/KLbTucni/index.m3u8
 第14集,https://mahua-kb.com/20200509/jpOq9BHw/index.m3u8
+第15集,https://mahua-kb.com/20200515/AvjqIgF7/index.m3u8
+第16集,https://mahua-kb.com/20200516/AfX1x7MS/index.m3u8
 
 清平乐,#genre#
 第01集,https://mahua-kb.com/20200407/po85IpCC/index.m3u8
@@ -1329,6 +1331,14 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第60集,https://mahua-kb.com/20200512/iuLObh5r/index.m3u8
 第61集,https://mahua-kb.com/20200513/SqQ182hW/index.m3u8
 第62集,https://mahua-kb.com/20200513/0LX4uGQZ/index.m3u8
+第63集,https://mahua-kb.com/20200514/F5QHOtgb/index.m3u8
+第64集,https://mahua-kb.com/20200514/D1s7v3qq/index.m3u8
+第65集,https://mahua-kb.com/20200515/sz13uwEj/index.m3u8
+第66集,https://mahua-kb.com/20200516/7euUbgSP/index.m3u8
+第67集,https://d.mahua-kb.com/20200517/CEN5u4Iw/index.m3u8
+第68集,https://d.mahua-kb.com/20200517/Y5MrhB27/index.m3u8
+第69集,https://d.mahua-kb.com/20200518/XxuXd4vN/index.m3u8
+第70集,https://d.mahua-kb.com/20200518/2Nyp6L8o/index.m3u8
 
 芦苇,#genre#
 第01集,https://d.mhkuaibo.com/20200428/KjncfIbO/index.m3u8
@@ -1345,6 +1355,8 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第12集,https://mahua-kb.com/20200503/drRVWRSE/index.m3u8
 第13集,https://mahua-kb.com/20200509/4gCLMi5k/index.m3u8
 第14集,https://mahua-kb.com/20200510/iiotpJhv/index.m3u8
+第15集,https://mahua-kb.com/20200516/vjfrR2MS/index.m3u8
+第16集,https://d.mahua-kb.com/20200517/kIh8thjQ/index.m3u8
 
 国王：永远的君主，#genre#
 第01集,https://mahua-kb.com/20200417/Fmf4h5o7/index.m3u8
@@ -1355,3 +1367,5 @@ CCTV 4K,http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
 第06集,https://mahua-kb.com/20200502/bNw0JRr4/index.m3u8
 第07集,https://mahua-kb.com/20200508/RoKyYz0d/index.m3u8
 第08集,https://mahua-kb.com/20200509/g6Acad6J/index.m3u8
+第09集,https://mahua-kb.com/20200515/d5iUhTuh/index.m3u8
+第10集,https://mahua-kb.com/20200516/Hi124k1J/index.m3u8
