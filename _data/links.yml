@@ -272,6 +272,10 @@
       style: grey
       url: https://bde4.com/
 
+    - name: 麻花采集
+      style: blue
+      url: http://www.mahuazy.org
+
     - name: 影视全搜索
       style: purple
       url: http://v.eyunzhu.com/
