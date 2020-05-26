@@ -1031,6 +1031,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第08集,https://mahua-kb.com/20200509/g6Acad6J/index.m3u8
 第09集,https://mahua-kb.com/20200515/d5iUhTuh/index.m3u8
 第10集,https://mahua-kb.com/20200516/Hi124k1J/index.m3u8
+第11集,https://d.mahua-kb.com/20200522/9gF06qMh/index.m3u8
+第12集,https://d.mahua-kb.com/20200523/34yNNv56/index.m3u8
 
 降魔的2.0,#genre#
 第01集,https://mahua-kb.com/20200505/xxoCW4AW/index.m3u8
@@ -1060,6 +1062,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第08集,https://d.mahua-kb.com/20200518/MUqmZ9sy/index.m3u8
 第09集,https://d.mahua-kb.com/20200519/bGlvBnmQ/index.m3u8
 第10集,https://d.mahua-kb.com/20200519/rXszECgA/index.m3u8
+第11集,https://d.mahua-kb.com/20200525/UTKfrZ0e/index.m3u8
+第12集,https://d.mahua-kb.com/20200525/ncu6l3Ec/index.m3u8
 
 暖暖，请多指教,#genre#
 第01集,https://mahua-kb.com/20200513/WlBVvVu3/index.m3u8
