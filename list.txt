@@ -1033,6 +1033,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第10集,https://mahua-kb.com/20200516/Hi124k1J/index.m3u8
 第11集,https://d.mahua-kb.com/20200522/9gF06qMh/index.m3u8
 第12集,https://d.mahua-kb.com/20200523/34yNNv56/index.m3u8
+第13集,https://d.mahua-kb.com/20200530/Poqf9lNc/index.m3u8
 
 降魔的2.0,#genre#
 第01集,https://mahua-kb.com/20200505/xxoCW4AW/index.m3u8
@@ -1108,3 +1109,9 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第08集,https://d.mahua-kb.com/20200528/hb8l84XH/index.m3u8
 第09集,https://d.mahua-kb.com/20200528/MhTTFVJY/index.m3u8
 第10集,https://d.mahua-kb.com/20200528/p0712MYa/index.m3u8
+第11集,https://d.mahua-kb.com/20200529/YtEJjlWF/index.m3u8
+第12集,https://d.mahua-kb.com/20200529/Iq2qV337/index.m3u8
+第13集,https://d.mahua-kb.com/20200530/RYxWNyZm/index.m3u8
+第14集,https://d.mahua-kb.com/20200530/4hKhjCFp/index.m3u8
+第15集,https://d.mahua-kb.com/20200531/IUpRlVoN/index.m3u8
+第16集,https://d.mahua-kb.com/20200531/etgWSj6D/index.m3u8
