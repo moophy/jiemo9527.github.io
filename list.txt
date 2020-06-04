@@ -1055,6 +1055,10 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第17集,https://d.mahua-kb.com/20200526/3jWTyHZQ/index.m3u8
 第18集,https://d.mahua-kb.com/20200527/OoKvFVmD/index.m3u8
 第19集,https://d.mahua-kb.com/20200528/iq0LpOAM/index.m3u8
+第20集,https://d.mahua-kb.com/20200529/a4gzU8Xc/index.m3u8
+第21集,https://d.mahua-kb.com/20200602/Mwk3dXzk/index.m3u8
+第22集,https://d.mahua-kb.com/20200602/oY0gP4hb/index.m3u8
+第23集,https://d.mahua-kb.com/20200603/CUax1RqL/index.m3u8
 
 传闻中的陈芊芊,#genre#
 第01集,https://d.mahua-kb.com/20200518/i92H8tgD/index.m3u8
@@ -1071,6 +1075,16 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第12集,https://d.mahua-kb.com/20200525/ncu6l3Ec/index.m3u8
 第13集,https://d.mahua-kb.com/20200526/6TYl308F/index.m3u8
 第14集,https://d.mahua-kb.com/20200526/PY0xQkeE/index.m3u8
+第15集,https://d.mahua-kb.com/20200601/S6UkZazo/index.m3u8
+第16集,https://d.mahua-kb.com/20200601/Dfxvvz4D/index.m3u8
+第17集,https://b.mahua-kb.com/20200601/AQz1UbMK/index.m3u8
+第18集,https://b.mahua-kb.com/20200601/gOwtITlm/index.m3u8
+第19集,https://b.mahua-kb.com/20200601/CFuBth35/index.m3u8
+第20集,https://b.mahua-kb.com/20200601/OkkTPJNh/index.m3u8
+第21集,https://b.mahua-kb.com/20200601/HXUZinC4/index.m3u8
+第22集,https://b.mahua-kb.com/20200601/53FZqTCY/index.m3u8
+第23集,https://b.mahua-kb.com/20200601/6gpbHY6R/index.m3u8
+第24集,https://b.mahua-kb.com/20200601/lS7SqXX6/index.m3u8
 
 暖暖，请多指教,#genre#
 第01集,https://mahua-kb.com/20200513/WlBVvVu3/index.m3u8
