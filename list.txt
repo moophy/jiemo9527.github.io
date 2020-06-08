@@ -1034,6 +1034,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第11集,https://d.mahua-kb.com/20200522/9gF06qMh/index.m3u8
 第12集,https://d.mahua-kb.com/20200523/34yNNv56/index.m3u8
 第13集,https://d.mahua-kb.com/20200530/Poqf9lNc/index.m3u8
+第14集,https://d.mahua-kb.com/20200605/Drud9UVG/index.m3u8
+第15集,https://d.mahua-kb.com/20200606/Ab58ivBv/index.m3u8
 
 降魔的2.0,#genre#
 第01集,https://mahua-kb.com/20200505/xxoCW4AW/index.m3u8
@@ -1059,6 +1061,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第21集,https://d.mahua-kb.com/20200602/Mwk3dXzk/index.m3u8
 第22集,https://d.mahua-kb.com/20200602/oY0gP4hb/index.m3u8
 第23集,https://d.mahua-kb.com/20200603/CUax1RqL/index.m3u8
+第24集,https://d.mahua-kb.com/20200604/26TKA9UM/index.m3u8
+第25集,https://d.mahua-kb.com/20200605/5dP4pdUX/index.m3u8
 
 传闻中的陈芊芊,#genre#
 第01集,https://d.mahua-kb.com/20200518/i92H8tgD/index.m3u8
@@ -1129,3 +1133,11 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第14集,https://d.mahua-kb.com/20200530/4hKhjCFp/index.m3u8
 第15集,https://d.mahua-kb.com/20200531/IUpRlVoN/index.m3u8
 第16集,https://d.mahua-kb.com/20200531/etgWSj6D/index.m3u8
+第17集,https://d.mahua-kb.com/20200604/Gjg9mZhL/index.m3u8
+第18集,https://d.mahua-kb.com/20200604/4m65wgob/index.m3u8
+第19集,https://d.mahua-kb.com/20200605/vWT0O2xb/index.m3u8
+第20集,https://d.mahua-kb.com/20200605/ygzjm2GO/index.m3u8
+第21集,https://d.mahua-kb.com/20200606/1Fip9UKg/index.m3u8
+第22集,https://d.mahua-kb.com/20200606/26vXirON/index.m3u8
+第23集,https://d.mahua-kb.com/20200607/ufU3Qaao/index.m3u8
+第24集,https://d.mahua-kb.com/20200607/DauZPfON/index.m3u8
