@@ -422,13 +422,17 @@
       style: green
       url: https://app.cloudcone.com/login
 
-    - name: NexusBytes
+    - name: RU-VDS
       style: blue
-      url: https://nexusbytes.com/index.php
+      url: https://ruvds.com/en-rub
 
     - name: JustHost
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
+
+    - name: NexusBytes
+      style: blue
+      url: https://nexusbytes.com/index.php
 
     - name: namesilo
       style: blue
