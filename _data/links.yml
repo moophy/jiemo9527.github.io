@@ -442,7 +442,7 @@
       style: black
       url: http://port.ping.pe/
 
-    - name: Netlify
+    - name: netlify
       style: black
       url: https://app.netlify.com/account/sites
 
