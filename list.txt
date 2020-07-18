@@ -1026,6 +1026,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第04集,https://d.mahua-kb.com/20200628/lCrzDsKe/index.m3u8
 第05集,https://d.mahua-kb.com/20200704/ViJ7xmWd/index.m3u8
 第06集,https://d.mahua-kb.com/20200705/QMynDlzB/index.m3u8
+第07集,https://d.mahua-kb.com/20200711/SnDLL2nU/index.m3u8
+第08集,https://d.mahua-kb.com/20200712/H7t3Uk42/index.m3u8
 
 请回答1988,#genre#
 第01集,https://mhbobo.com/20191128/v6OKW6zv/index.m3u8
@@ -1161,3 +1163,5 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 109,https://d.mahua-kb.com/20200619/8NyZ6MzN/index.m3u8
 110,https://d.mahua-kb.com/20200626/ATLdI7N8/index.m3u8
 111,https://d.mahua-kb.com/20200703/BFhpx1P3/index.m3u8
+112,https://d.mahua-kb.com/20200710/JRX77OVZ/index.m3u8
+113,https://d.mahua-kb.com/20200717/RoJwNYQR/index.m3u8
