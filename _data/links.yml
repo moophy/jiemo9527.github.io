@@ -113,6 +113,10 @@
       style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
 
+    - name: ParseVideo
+      style: green
+      url: https://www.parsevideo.com
+
     - name: 硕鼠解析
       style: grey
       url: http://www.flvcd.com/index.htm
