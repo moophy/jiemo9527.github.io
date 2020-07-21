@@ -407,6 +407,18 @@
     - name: 磁力狗
       style: grey
       url: http://ciligou.top/
+
+    - name: m3u8下载器
+      style: blue
+      url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
+
+    - name: 视频解析
+      style: green
+      url: https://www.parsevideo.com/
+
+    - name: M3U8播放器
+      style: white
+      url: https://www.vjiujiang.com/yl/m3u8/
 #    服务器
   - name: Server
     links:
