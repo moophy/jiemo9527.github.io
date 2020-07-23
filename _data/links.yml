@@ -372,6 +372,10 @@
 #    资源搜索
   - name: 资源搜索
     links:
+    - name: m3u8列表
+      style: white
+      url: https://www.jie-navi.xyz/list.txt
+
     - name: 不死鸟索引
       style: red
       url: https://hao.su/909/#menu_index_1
@@ -390,7 +394,7 @@
 
     - name: 高清MP4
       style:  black
-      url: http://www.mp4ba.cc/
+      url: http://mp4ba.cc
 
     - name: zooqle
       style: basic
