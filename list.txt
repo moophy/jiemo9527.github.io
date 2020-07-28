@@ -1059,6 +1059,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第09集,https://c.mahua-kb.com/20200718/S9ss7U0W/index.m3u8
 第10集,https://d.mahua-kb.com/20200719/KcTdLqWH/index.m3u8
 第11集,https://d.mahua-kb.com/20200725/O91LQJoi/index.m3u8
+第12集,https://e.mahua-kb.com/20200726/Sju96Gsy/index.m3u8
 
 通灵妃2,,#genre#
 第01集,https://d.mahua-kb.com/20200713/hDGG41ON/index.m3u8
@@ -1090,6 +1091,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第27集,https://mahua-kb.com/20200726/8xrMkrem/index.m3u8
 第28集,https://mahua-kb.com/20200726/qfEhfQlf/index.m3u8
 第29集,https://mahua-kb.com/20200726/7dMwHSzb/index.m3u8
+第30集,https://e.mahua-kb.com/20200727/5lrhhPCn/index.m3u8
+第31集,https://e.mahua-kb.com/20200727/Cc6wwslj/index.m3u8
 
 穿越火线2020,#genre#
 第01集,https://a.mahua-kb.com/20200720/YiDgDfos/index.m3u8
@@ -1103,6 +1106,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第09集,https://d.mahua-kb.com/20200720/btMqm0vn/index.m3u8
 第10集,https://d.mahua-kb.com/20200720/rDy7QFnK/index.m3u8
 第11集,https://a.mahua-kb.com/20200721/y6HXKODU/index.m3u8
+第12集,https://e.mahua-kb.com/20200728/JfjwiPAf/index.m3u8
 
 斗罗大陆100,#genre#
 100,https://mahua-kb.com/20200417/7Sol03pR/index.m3u8
@@ -1138,12 +1142,6 @@ Re：从零开始的异世界生活2,#genre#
 第02集,https://d.mahua-kb.com/20200715/Ilamdemc/index.m3u8
 第03集,https://3.mhbobo.com/20200722/mhpWaa0w/index.m3u8
 
-OAD关于我转生变成史莱姆这档事,#genre#
-OAD01,https://youku.mhyunbo.com/20191203/ILkhzxcc/index.m3u8
-OAD02,https://youku.mhyunbo.com/20191204/hA3FddI9/index.m3u8
-OAD03,https://mahua-kb.com/20200326/MQUaRr6s/index.m3u8
-OAD04,https://d.mahua-kb.com/20200708/YCeTTCM9/index.m3u8
-
 釜山行2半岛,#genre#
 TS中英双字,https://c.mahua-kb.com/20200719/Inq53XqZ/index.m3u8
 
@@ -1162,6 +1160,8 @@ TS中英双字,https://c.mahua-kb.com/20200719/Inq53XqZ/index.m3u8
 第12集,https://3.mhbobo.com/20200722/x3R4wKsc/index.m3u8
 第13集,https://d.mahua-kb.com/20200723/0zd0YkF3/index.m3u8
 第14集,https://d.mahua-kb.com/20200723/jcvO6Wry/index.m3u8
+第15集,https://d.mahua-kb.com/20200728/Whn0cMAC/index.m3u8
+第16集,https://d.mahua-kb.com/20200728/Cvw8nsga/index.m3u8
 
 凡人修仙传,#genre#
 第01集,https://3.mhbobo.com/20200725/6LvmMqNc/index.m3u8
