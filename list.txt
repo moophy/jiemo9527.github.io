@@ -1,6 +1,3 @@
-test,#genre#
-https://iptv-org.github.io/iptv/countries/cn.m3u
-
 央视,#genre#
 CCTV-1高清,https://ivi.bupt.bt3.eyunzhu.com/hls/cctv1hd.m3u8
 CCTV-3高清,https://ivi.bupt.bt3.eyunzhu.com/hls/cctv3hd.m3u8
