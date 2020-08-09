@@ -1062,6 +1062,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第12集,https://e.mahua-kb.com/20200726/Sju96Gsy/index.m3u8
 第13集,https://d.mahua-kb.com/20200801/Z6RJyCmR/index.m3u8
 第14集,https://d.mahua-kb.com/20200802/2HCNmSrT/index.m3u8
+第15集,https://e.mahua-kb.com/20200808/whMZCa61/index.m3u8
 
 通灵妃2,,#genre#
 第01集,https://d.mahua-kb.com/20200713/hDGG41ON/index.m3u8
@@ -1109,6 +1110,18 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第43集,https://mahua-kb.com/20200803/uzveXJti/index.m3u8
 第44集,https://mahua-kb.com/20200803/JE3FkBa5/index.m3u8
 第45集,https://mahua-kb.com/20200803/EhCLmOgS/index.m3u8
+第46集,https://mahua-kb.com/20200808/O1a51exY/index.m3u8
+第47集,https://mahua-kb.com/20200808/2Ab8gab3/index.m3u8
+第48集,https://mahua-kb.com/20200808/TYZsBGWR/index.m3u8
+第49集,https://mahua-kb.com/20200808/bEAdGxYF/index.m3u8
+第50集,https://mahua-kb.com/20200808/OGMl014V/index.m3u8
+第51集,https://mahua-kb.com/20200808/DSo3l6C7/index.m3u8
+第52集,https://mahua-kb.com/20200808/y3wVu0Og/index.m3u8
+第53集,https://mahua-kb.com/20200808/EFyn7zKL/index.m3u8
+第54集,https://mahua-kb.com/20200808/1TtHvgbb/index.m3u8
+第55集,https://mahua-kb.com/20200808/MG9UJTEh/index.m3u8
+第56集,https://e.mahua-kb.com/20200809/IZi7PUUC/index.m3u8
+第57集,https://e.mahua-kb.com/20200809/QUb65YNK/index.m3u8
 
 穿越火线2020,#genre#
 第01集,https://a.mahua-kb.com/20200720/YiDgDfos/index.m3u8
@@ -1131,6 +1144,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第18集,https://e.mahua-kb.com/20200804/dboVqiB6/index.m3u8
 第19集,https://e.mahua-kb.com/20200805/CJvvAgKI/index.m3u8
 第20集,https://e.mahua-kb.com/20200806/qFNNBdy6/index.m3u8
+第21集,https://3.mhbobo.com/20200807/6q0oJ6Ys/index.m3u8
+第22集,https://e.mahua-kb.com/20200808/IRWRy6mz/index.m3u8
 
 斗罗大陆100,#genre#
 100,https://mahua-kb.com/20200417/7Sol03pR/index.m3u8
@@ -1149,6 +1164,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 113,https://d.mahua-kb.com/20200717/RoJwNYQR/index.m3u8
 114,https://d.mahua-kb.com/20200724/C7McHJ3I/index.m3u8
 115,https://e.mahua-kb.com/20200731/W8cIj99A/index.m3u8
+116,https://e.mahua-kb.com/20200807/bG9zs3h7/index.m3u8
 
 武动乾坤2,#genre#
 第01集,https://d.mahua-kb.com/20200711/4aBZKxUF/index.m3u8
@@ -1156,6 +1172,7 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第03集,https://d.mahua-kb.com/20200718/bgqCkfKy/index.m3u8
 第04集,https://mahua-kb.com/20200725/fyEMWrZZ/index.m3u8
 第05集,https://e.mahua-kb.com/20200801/pmCN5nsY/index.m3u8
+第06集,https://e.mahua-kb.com/20200808/T0v8DdoR/index.m3u8
 
 Re：从零开始的异世界生活2,#genre#
 第01集,https://d.mahua-kb.com/20200708/SO2gmk7Y/index.m3u8
@@ -1198,8 +1215,10 @@ Re：从零开始的异世界生活2,#genre#
 第03集,https://3.mhbobo.com/20200725/RJ51mFBH/index.m3u8
 第04集,https://3.mhbobo.com/20200725/6THfvIH8/index.m3u8
 第05集,https://e.mahua-kb.com/20200801/qyKb3rPx/index.m3u8
+第06集,https://e.mahua-kb.com/20200808/c3guPCww/index.m3u8
 
 灰姑娘药剂师,#genre#
 第01集,https://d.mahua-kb.com/20200716/EKYGKUgL/index.m3u8
 第02集,https://d.mahua-kb.com/20200724/OJIPpXCi/index.m3u8
 第03集,https://e.mahua-kb.com/20200731/Pr9zFtCh/index.m3u8
+第04集,https://e.mahua-kb.com/20200806/FYh0Gc5f/index.m3u8
