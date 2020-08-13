@@ -51,6 +51,10 @@
       style: light yellow
       url: https://www.heji.ltd
 
+    - name: 毒盘解析
+      style: light green
+      url: https://baiduyaowan.jiemo.workers.dev
+
     - name: 谷歌分析
       style: light orange
       url: https://analytics.google.com/analytics/web/
