@@ -284,10 +284,6 @@
       style: blue
       url: http://www.mahuazy.org
 
-    - name: 影视全搜索
-      style: purple
-      url: http://v.eyunzhu.com/
-
 - categories:
 #    学术
   - name: 学术
