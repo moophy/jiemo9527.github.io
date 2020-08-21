@@ -1122,6 +1122,7 @@ Re：从零开始的异世界生活2,#genre#
 第04集,https://d.mahua-kb.com/20200729/YdjYtr9r/index.m3u8
 第05集,https://e.mahua-kb.com/20200805/GZmycbho/index.m3u8
 第06集,https://e.mahua-kb.com/20200812/8ePYPsHE/index.m3u8
+第07集,https://e.mahua-kb.com/20200819/gPaPNSou/index.m3u8
 
 凡人修仙传,#genre#
 第01集,https://3.mhbobo.com/20200725/6LvmMqNc/index.m3u8
