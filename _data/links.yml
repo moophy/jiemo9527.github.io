@@ -39,11 +39,11 @@
 #    工具
   - name: 工具
     links:
-    - name: kodexplorer—SUP
+    - name: kod网盘-SUP
       style: green
       url: https://jiemo-sup2020.top
 
-    - name: kodexplorer—VI
+    - name: kod网盘-VI
       style: light blue
       url: https://jiemo-vi.top
 
@@ -54,6 +54,14 @@
     - name: 毒盘解析
       style: light green
       url: https://baiduyaowan.jiemo.workers.dev
+
+    - name: jsproxy沙盒代理
+      style: light blue
+      url: https://proxy.jiemo.workers.dev
+
+    - name: gdrive共享目录下载站
+      style: light black
+      url: https://gdrive.jiemo.workers.dev
 
     - name: 谷歌分析
       style: light orange
@@ -175,50 +183,13 @@
       style: basic
       url: https://github.com/
 
-#    学习
-  - name: 学习
+#    xx
+  - name: xx
     links:
     - name: Coursera
       style: basic
-      url: https://www.coursera.org/
+      url: https://xxx
 
-    - name: MOOC
-      style: basic
-      url: http://mooc.org/
-
-    - name: 网易公开课
-      style: basic
-      url: http://open.163.com/
-
-    - name: W3School
-      style: basic
-      url: http://www.w3school.com.cn/
-
-    - name: Stack Overflow
-      icon: stack overflow orange
-      style: basic
-      url: https://stackoverflow.com/
-
-    - name: SegmentFault
-      style: basic
-      url: http://segmentfault.com/
-
-    - name: Tutorials Point
-      style: basic
-      url: https://www.tutorialspoint.com/
-
-    - name: Google Open Source
-      icon: code blue
-      style: basic
-      url: https://opensource.google.com/
-
-    - name: CSDN
-      style: basic
-      url: https://edu.csdn.net/
-
-    - name: 云英语
-      style: black
-      url: https://www.y-english.org/
 #    影视
   - name: 影视
     links:
@@ -383,34 +354,6 @@
     - name: tg资源搜索
       style: blue
       url: http://www.sssoou.com/
-
-    - name: 速影
-      style:  orange
-      url: https://xn--94qq85au3qyvbe13c.com
-
-    - name: 电影淘淘
-      style:  green
-      url: http://www.dytt.com
-
-    - name: 高清MP4
-      style:  black
-      url: http://mp4ba.cc
-
-    - name: zooqle
-      style: basic
-      url: https://zooqle.com/
-
-    - name: Bthub
-      style: black
-      url: https://bthub.site/
-
-    - name: 磁力宝
-      style: black
-      url: http://www.clb.biz/
-
-    - name: 磁力狗
-      style: grey
-      url: http://ciligou.top/
 
     - name: m3u8下载器
       style: blue
