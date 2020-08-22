@@ -1,40 +1,34 @@
 - categories:
-#    购物
-  - name: 购物
+#    谷歌
+  - name: 谷歌
     links:
-    - name: 淘宝
-      style: orange
-      url: https://www.taobao.com/
+    - name: google
+      style: green
+      url: https://www.google.com
 
-    - name: 天猫
-      style: red
-      url: https://www.tmall.com/
+    - name: 谷歌翻译
+      style: green
+      url: https://translate.google.com
 
-    - name: 京东
-      style: basic
-      url: https://www.jd.com/
+    - name: Gdrive
+      style: green
+      url: https://drive.google.com
 
-    - name: Amazon
-      icon: amazon yellow
-      style: basic
-      url: https://www.amazon.cn/
+    - name: Gscript
+      style: green
+      url: https://script.google.com
 
-    - name: Apple
-      style: basic
-      icon: apple grey
-      url: https://www.apple.com/
+    - name: Gmail
+      style: green
+      url: https://mail.google.com
 
-    - name: 一号店
-      style: basic
-      url: https://www.yhd.com/
+    - name: google相册
+      style: green
+      url: https://photos.google.com
 
-    - name: 当当
-      style: basic
-      url: http://www.dangdang.com/
-
-    - name: 大疆
-      style: black
-      url: https://www.dji.com/
+    - name: google应用店
+      style: green
+      url: https://chrome.google.com
 
 #    工具
   - name: 工具
@@ -182,14 +176,44 @@
       icon: github black
       style: basic
       url: https://github.com/
-
-#    xx
-  - name: xx
+#    购物
+  - name: 购物
     links:
-    - name: Coursera
-      style: basic
-      url: https://xxx
+    - name: 淘宝
+      style: orange
+      url: https://www.taobao.com/
 
+    - name: 天猫
+      style: red
+      url: https://www.tmall.com/
+
+    - name: 京东
+      style: basic
+      url: https://www.jd.com/
+
+    - name: Amazon
+      icon: amazon yellow
+      style: basic
+      url: https://www.amazon.cn/
+
+    - name: Apple
+      style: basic
+      icon: apple grey
+      url: https://www.apple.com/
+
+    - name: 一号店
+      style: basic
+      url: https://www.yhd.com/
+
+    - name: 当当
+      style: basic
+      url: http://www.dangdang.com/
+
+    - name: 大疆
+      style: black
+      url: https://www.dji.com/
+
+- categories:
 #    影视
   - name: 影视
     links:
@@ -254,38 +278,6 @@
     - name: 麻花采集
       style: blue
       url: http://www.mahuazy.org
-
-- categories:
-#    学术
-  - name: 学术
-    links:
-    - name: 万方
-      style: basic
-      url: http://www.wanfangdata.com.cn/
-
-    - name: 知网
-      style: basic
-      url: http://www.cnki.net/
-
-    - name: 百度学术
-      style: basic
-      url: http://xueshu.baidu.com/
-
-    - name: 爱学术
-      style: basic
-      url: http://www.ixueshu.com/
-
-    - name: 中文科技期刊数据库
-      style: basic
-      url: http://www.cqvip.com/
-
-    - name: 学术网站大全
-      style: basic
-      url: http://t.cn/RhltSmt
-
-    - name: 中国科技论文在线
-      style: basic
-      url: http://t.cn/75vs4
 #    开发资源大全
   - name: 开发资源大全
     links:
