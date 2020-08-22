@@ -42,7 +42,7 @@
 
     - name: 毒盘解析
       style: light green
-      url: https://baiduyaowan.jie-navi.xyz
+      url: http://baiduyaowan.jie-navi.xyz
 
     - name: jsproxy沙盒代理
       style: light blue
