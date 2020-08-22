@@ -3,11 +3,11 @@
   - name: 谷歌
     links:
     - name: google
-      style: green
+      style: white
       url: https://www.google.com
 
     - name: 谷歌翻译
-      style: green
+      style: blue
       url: https://translate.google.com
 
     - name: Gdrive
@@ -15,21 +15,20 @@
       url: https://drive.google.com
 
     - name: Gscript
-      style: green
+      style: orange
       url: https://script.google.com
 
     - name: Gmail
-      style: green
+      style: red
       url: https://mail.google.com
 
     - name: google相册
-      style: green
+      style: grey
       url: https://photos.google.com
 
     - name: google应用店
-      style: green
-      url: https://chrome.google.com
-
+      style: blue
+      url: https://chrome.google.com/webstore/category/extensions?hl=zh
 #    工具
   - name: 工具
     links:
@@ -40,10 +39,6 @@
     - name: kod网盘-VI
       style: light blue
       url: https://jiemo-vi.top
-
-    - name: 合集网
-      style: light yellow
-      url: https://www.heji.ltd
 
     - name: 毒盘解析
       style: light green
@@ -69,59 +64,14 @@
       style: green
       url: https://www.sojson.com/ip/
 
-    - name: '12306'
-      icon: train red
-      style: basic
-      url: http://www.12306.cn/
-
-    - name: OneDrive
-      style: basic
-      url: https://login.microsoftonline.com/87ecbb1b-0e7e-4e07-9ab0-45b093591c7a/oauth2/authorize?client_id=00000003-0000-0ff1-ce00-000000000000&response_mode=form_post&protectedtoken=true&response_type=code%20id_token&resource=00000003-0000-0ff1-ce00-000000000000&scope=openid&nonce=33E744700470BEF6A347C25BCE9E4F721F864D37B387E980-A64FE9F923F804FE3B78C2EFAC3C73FE87099C80F3897DCD36E7DF3C4E980DF8&redirect_uri=https:%2F%2Fpmjs-my.sharepoint.com%2F_forms%2Fdefault.aspx&wsucxt=1&cobrandid=11bd8083-87e0-41b5-bb78-0bc43c8a8e8a&client-request-id=6bb22c9f-1026-0000-47b7-a0728358a52e
-
-    - name: MultCloud
-      style: blue
-      url: https://www.multcloud.com/tw/sign
-
-    - name: outlook邮箱
-      icon: envelope red
-      style: basic
-      url: https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=13&ct=1579239194&rver=7.0.6737.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.live.com%2fowa%2f%3fnlp%3d1%26RpsCsrfState%3d08a0e8b2-c9e3-eaa1-b4c0-92b0b665a738&id=292841&aadredir=1&whr=outlook.com&CBCXT=out&lw=1&fl=dob%2cflname%2cwld&cobrandid=90015
-
-    - name: QQ邮箱
-      icon: qq black
-      style: basic
-      url: https://mail.qq.com/
-
-    - name: Gmail
-      icon: google red
-      style: basic
-      url: https://mail.google.com/
-
-    - name: 谷歌翻译
-      icon: language blue
-      style: basic
-      url: https://translate.google.com/
-
-    - name: Pixiv
-      style: blue
-      url: https://accounts.pixiv.net/login?lang=zh&source=pc&view_type=page&ref=wwwtop_accounts_index
-
     - name: 维基百科
       icon: wikipedia w black
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: 天眼查
-      style: basic
-      url: https://www.tianyancha.com/
-
     - name: 芝麻代理
       style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
-
-    - name: ParseVideo
-      style: green
-      url: https://www.parsevideo.com
 
     - name: 硕鼠解析
       style: grey
@@ -242,10 +192,6 @@
       style: pink
       url: https://bilibili.com/
 
-    - name: AcFun
-      style: basic
-      url: https://acfun.cn/
-
     - name: 豆瓣电影
       icon: film blue
       style: basic
@@ -254,10 +200,6 @@
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
-
-    - name: 追新番
-      style: light blue
-      url: http://zhuixinfan.com/main.php
 
     - name: 韩剧TV
       style: pink
@@ -275,9 +217,17 @@
       style: grey
       url: https://bde4.com/
 
-    - name: 麻花采集
-      style: blue
-      url: http://www.mahuazy.org
+    - name: 蒙面大侠
+      style: yellow
+      url: https://www.mengmiandaxia.com
+
+    - name: 独播库
+      style: black
+      url: http://www.duboku.co
+
+    - name: 速影TV
+      style: black
+      url: https://xn--94qq85au3qyvbe13c.com
 #    开发资源大全
   - name: 开发资源大全
     links:
@@ -342,6 +292,10 @@
     - name: 不死鸟索引
       style: red
       url: https://hao.su/909/#menu_index_1
+
+    - name: 合集网
+      style: light yellow
+      url: https://www.heji.ltd
 
     - name: tg资源搜索
       style: blue
