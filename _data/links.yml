@@ -335,6 +335,10 @@
       style: green
       url: https://app.cloudcone.com/login
 
+    - name: HostMem
+      style: black
+      url: https://console.hostmem.com
+
     - name: RU-VDS
       style: blue
       url: https://ruvds.com/en-rub
@@ -360,7 +364,7 @@
       url: https://app.netlify.com/account/sites
 
     - name: cloudflare
-      style: black
+      style: orange
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
     - name: CloudIPLC
