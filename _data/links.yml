@@ -46,15 +46,15 @@
 
     - name: 毒盘解析
       style: light green
-      url: http://baiduyaowan.jie-navi.xyz
+      url: http://dupan.jie02.top
 
     - name: jsproxy沙盒代理
       style: light blue
-      url: https://proxy.jiemo.workers.dev
+      url: http://jsproxy.jie02.top
 
     - name: gdrive共享目录下载站
       style: light black
-      url: https://gdrive.jiemo.workers.dev
+      url: https://gdrive.jie02.top
 
     - name: 谷歌分析
       style: light orange
