@@ -29,6 +29,10 @@
     - name: google应用店
       style: blue
       url: https://chrome.google.com/webstore/category/extensions?hl=zh
+
+    - name: Gvoice
+      style: green
+      url: https://voice.google.com/
 #    工具
   - name: 工具
     links:
