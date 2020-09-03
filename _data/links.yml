@@ -291,7 +291,7 @@
     links:
     - name: m3u8列表
       style: white
-      url: https://www.jie-navi.xyz/list.txt
+      url: https://go.jie02.top/list.txt
 
     - name: 不死鸟索引
       style: red
