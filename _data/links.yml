@@ -61,7 +61,7 @@
       url: https://analytics.google.com/analytics/web/
 
     - name: IPIP
-      style: blue
+      style: light blue
       url: https://www.ipip.net/ip.html
 
     - name: IPAddress
