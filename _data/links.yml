@@ -60,6 +60,10 @@
       style: light orange
       url: https://analytics.google.com/analytics/web/
 
+    - name: IPIP
+      style: blue
+      url: https://www.ipip.net/ip.html
+
     - name: IPAddress
       style: black
       url: https://www.ipaddress.com/
