@@ -40,10 +40,6 @@
       style: green
       url: https://jiemo-sup2020.top
 
-    - name: kod网盘-VI
-      style: light blue
-      url: https://jiemo-vi.top
-
     - name: 毒盘解析
       style: light green
       url: http://dupan.jie02.top
@@ -311,7 +307,7 @@
 
     - name: m3u8下载器
       style: blue
-      url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
+      url: https://m3u8.jie02.top
 
     - name: 视频解析
       style: green
