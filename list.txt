@@ -1068,6 +1068,8 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 117,https://e.mahua-kb.com/20200809/2VCb5DPL/index.m3u8
 118,https://e.mahua-kb.com/20200821/nTqCzY2R/index.m3u8
 119,https://e.mahua-kb.com/20200828/t8OFIC3I/index.m3u8
+120,https://e.mahua-kb.com/20200904/82vHh7uz/index.m3u8
+121,https://e.mahua-kb.com/20200911/w8e99OHZ/index.m3u8
 
 武动乾坤2,#genre#
 第01集,https://d.mahua-kb.com/20200711/4aBZKxUF/index.m3u8
@@ -1078,6 +1080,9 @@ CCTV-14少儿,http://ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m
 第06集,https://e.mahua-kb.com/20200808/T0v8DdoR/index.m3u8
 第07集,https://e.mahua-kb.com/20200815/1mA07MOJ/index.m3u8
 第08集,https://e.mahua-kb.com/20200822/CVSLyxDp/index.m3u8
+第09集,https://e.mahua-kb.com/20200829/716l3J5y/index.m3u8
+第10集,https://e.mahua-kb.com/20200905/oilqPZz8/index.m3u8
+第11集,https://e.mahua-kb.com/20200912/o8qk5dSQ/index.m3u8
 
 Re：从零开始的异世界生活2,#genre#
 第01集,https://d.mahua-kb.com/20200708/SO2gmk7Y/index.m3u8
@@ -1089,6 +1094,7 @@ Re：从零开始的异世界生活2,#genre#
 第07集,https://e.mahua-kb.com/20200819/gPaPNSou/index.m3u8
 第08集,https://e.mahua-kb.com/20200826/16rOnfSp/index.m3u8
 第09集,https://e.mahua-kb.com/20200902/iKxNxlxV/index.m3u8
+第10集,https://e.mahua-kb.com/20200909/KlgbAB3H/index.m3u8
 
 凡人修仙传,#genre#
 第01集,https://3.mhbobo.com/20200725/6LvmMqNc/index.m3u8
@@ -1154,21 +1160,9 @@ Re：从零开始的异世界生活2,#genre#
 第51集,https://e.mahua-kb.com/20200903/2UUEx8tm/index.m3u8
 第52集,https://e.mahua-kb.com/20200903/3OshEWMn/index.m3u8
 第53集,https://e.mahua-kb.com/20200903/jNykUVwe/index.m3u8
-
-摩天大楼,#genre#
-第01集,https://a.mahua-kb.com/20200819/qhxnLrik/index.m3u8
-第02集,https://a.mahua-kb.com/20200819/fBQolyt2/index.m3u8
-第03集,https://e.mahua-kb.com/20200819/nT2wAL0u/index.m3u8
-第04集,https://e.mahua-kb.com/20200819/tB1qSoBL/index.m3u8
-第05集,https://e.mahua-kb.com/20200820/VHd7XJuZ/index.m3u8
-第06集,https://e.mahua-kb.com/20200820/TWKYQ70K/index.m3u8
-第07集,https://e.mahua-kb.com/20200821/nKymydk3/index.m3u8
-第08集,https://e.mahua-kb.com/20200821/jEucC4Lz/index.m3u8
-第09集,https://2.mhbobo.com/20200821/QZBwpmUS/index.m3u8
-第10集,https://2.mhbobo.com/20200821/PFiQlqnu/index.m3u8
-第11集,https://2.mhbobo.com/20200821/Wc9YTOx7/index.m3u8
-第12集,https://2.mhbobo.com/20200821/dcgxIMqj/index.m3u8
-第13集,https://2.mhbobo.com/20200821/JDiMA4cL/index.m3u8
-第14集,https://2.mhbobo.com/20200821/K6Ew35KJ/index.m3u8
-第15集,https://2.mhbobo.com/20200821/FPaGfdjj/index.m3u8
-第16集,https://2.mhbobo.com/20200821/NvoZ7LK6/index.m3u8
+第54集,https://e.mahua-kb.com/20200910/iBsmpR3c/index.m3u8
+第55集,https://e.mahua-kb.com/20200910/KoI54F5Y/index.m3u8
+第56集,https://e.mahua-kb.com/20200910/vK3G1r6f/index.m3u8
+第57集,https://e.mahua-kb.com/20200910/KM2YzVIk/index.m3u8
+第58集,https://e.mahua-kb.com/20200910/Gb73evO4/index.m3u8
+第59集,https://e.mahua-kb.com/20200910/HqolTzsG/index.m3u8
