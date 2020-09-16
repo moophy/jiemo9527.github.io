@@ -379,6 +379,10 @@
       style: black
       url: https://www.coalcloud.net/clientarea.php
 
+    - name: RangCloud
+      style: blue
+      url: https://rang.cloud/clientarea.php
+
 
 
 
