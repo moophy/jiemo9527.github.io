@@ -60,6 +60,10 @@
       style: light blue
       url: https://www.ipip.net/ip.html
 
+    - name: IP111
+      style: white
+      url: http://ip111.cn
+
     - name: IPAddress
       style: black
       url: https://www.ipaddress.com/
