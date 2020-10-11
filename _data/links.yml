@@ -81,9 +81,6 @@
       style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
 
-    - name: 硕鼠解析
-      style: grey
-      url: http://www.flvcd.com/index.htm
 #    社交
   - name: 社交
     links:
