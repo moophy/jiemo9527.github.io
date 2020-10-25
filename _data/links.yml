@@ -2,7 +2,7 @@
 #    谷歌
   - name: 谷歌
     links:
-    - name: google
+    - name: Google
       style: white
       url: https://www.google.com
 
@@ -49,8 +49,20 @@
       url: http://jsproxy.jie02.top
 
     - name: 【GDIndex】
-      style: light black
+      style: black
       url: https://gdrive.jie02.top
+
+    - name: 【脚本支持】
+      style: grey
+      url: https://greasyfork.org/zh-CN/users/158417-mo-jie
+
+    - name: 【兔包视频】
+      style: blue
+      url: https://miaowu.cyou/index.php/vod/index.html
+
+    - name: 【FDM】
+      style: blue
+      url: https://fdm.jie02.top
 
     - name: 谷歌分析
       style: light orange
