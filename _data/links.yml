@@ -60,9 +60,9 @@
       style: light blue
       url: https://www.ipip.net/ip.html
 
-    - name: IP111
+    - name: IPSukka
       style: white
-      url: http://ip111.cn
+      url: https://ip.skk.moe
 
     - name: IPAddress
       style: black
