@@ -36,19 +36,19 @@
 #    工具
   - name: 工具
     links:
-    - name: kod网盘-SUP
+    - name: 【kod网盘】
       style: green
       url: https://jiemo-sup2020.top
 
-    - name: 毒盘解析
+    - name: 【毒盘解析】
       style: light green
       url: http://dupan.jie02.top
 
-    - name: jsproxy沙盒代理
+    - name: 【jsproxy】
       style: light blue
       url: http://jsproxy.jie02.top
 
-    - name: gdrive共享目录下载站
+    - name: 【GDIndex】
       style: light black
       url: https://gdrive.jie02.top
 
@@ -197,11 +197,6 @@
       style: pink
       url: https://bilibili.com/
 
-    - name: 豆瓣电影
-      icon: film blue
-      style: basic
-      url: https://movie.douban.com/
-
     - name: 人人
       style: blue
       url: http://www.yyetss.com/
@@ -226,13 +221,7 @@
       style: yellow
       url: https://www.mengmiandaxia.com
 
-    - name: 独播库
-      style: black
-      url: http://www.duboku.co
 
-    - name: 速影TV
-      style: black
-      url: https://xn--94qq85au3qyvbe13c.com
 #    开发资源大全
   - name: 开发资源大全
     links:
@@ -305,10 +294,6 @@
     - name: tg资源搜索
       style: blue
       url: http://www.sssoou.com/
-
-    - name: m3u8下载器
-      style: blue
-      url: https://m3u8.jie02.top
 
     - name: 视频解析
       style: green
