@@ -337,6 +337,11 @@
       style: green
       url: https://app.cloudcone.com/login
 
+
+    - name: RackNerd
+      style: blue
+      url: https://my.racknerd.com/clientarea.php?action=services
+
     - name: HostMem
       style: black
       url: https://console.hostmem.com
