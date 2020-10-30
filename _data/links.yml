@@ -374,6 +374,10 @@
       style: orange
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
+    - name: J15Cloud
+      style: purple
+      url: https://j15.fun/clientarea.php
+
     - name: CloudIPLC
       style: grey
       url: https://www.cloudiplc.com/clientarea.php
