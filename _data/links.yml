@@ -360,7 +360,7 @@
 
     - name: DNSpod
       style: blue
-      url: https://www.dnspod.cn/login/email?s_url=https%3A%2F%2Fwww.dnspod.cn%2F
+      url: https://www.dnspod.cn/login/email
 
     - name: ping.me
       style: black
