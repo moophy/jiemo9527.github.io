@@ -321,9 +321,9 @@
       style: yellow
       url: https://bandwagonhost.com/clientarea.php?action=products
 
-    - name: pacificrack
+    - name: 咖啡主机
       style: blue
-      url: https://pacificrack.com/portal/clientarea.php?action=services
+      url: https://www.cfhost.cn/clientarea.php?action=services
 
     - name: AWS
       style: orange
@@ -332,6 +332,10 @@
     - name: GCP
       style: grey
       url: https://console.cloud.google.com/home/dashboard?project=refined-rookery-234303&hl=zh-CN&_ga=2.55307947.-1647764472.1577851817
+
+    - name: pacificrack
+      style: blue
+      url: https://pacificrack.com/portal/clientarea.php?action=services
 
     - name: CloudCone
       style: green
