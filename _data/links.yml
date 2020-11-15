@@ -321,10 +321,6 @@
       style: yellow
       url: https://bandwagonhost.com/clientarea.php?action=products
 
-    - name: 咖啡主机
-      style: blue
-      url: https://www.cfhost.cn/clientarea.php?action=services
-
     - name: AWS
       style: orange
       url: https://ap-northeast-1.console.aws.amazon.com/ec2/home?region=ap-northeast-1#Instances:sort=availabilityZone
@@ -378,9 +374,9 @@
       style: orange
       url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
-    - name: J15Cloud
-      style: purple
-      url: https://j15.fun/clientarea.php
+    - name: 云上互联
+      style: dark blue
+      url: https://upyun.cc/clientarea.php?action=services
 
     - name: CloudIPLC
       style: grey
