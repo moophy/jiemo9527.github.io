@@ -79,6 +79,10 @@
       style: basic
       url: https://www.wikipedia.org/
 
+    - name: BASE64
+      style: light blue
+      url: https://tool.oschina.net/encrypt?type=3
+
     - name: IPIP
       style: light blue
       url: https://www.ipip.net/ip.html
@@ -369,13 +373,13 @@
       url: https://coalcloud.coalcloud.net/clientarea.php
 
 
-- categories:
-#    other
-  - name: other
-    links:
-    - name: ###
-      style: yellow
-      url: https://google.com
+#- categories:
+##    other
+#  - name: other
+#    links:
+#    - name: ###
+#      style: yellow
+#      url: https://google.com
 
 
 
