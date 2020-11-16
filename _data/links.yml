@@ -34,7 +34,7 @@
       style: green
       url: https://voice.google.com/
 #    专属
-  - name: SVIP专属web服务
+  - name: 【SVIP】web服务
     links:
     - name: 【kod网盘】
       style: green
@@ -63,6 +63,13 @@
     - name: 【FDM】
       style: blue
       url: https://fdm.jie02.top
+
+    - name: 【m3u8在线合并】
+      style: grey
+      url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
+
+
+
 #    工具
   - name: 工具
     links:
