@@ -174,58 +174,6 @@
     style: black
     show: true
 
-- id: zimuku
-  name: 字幕库
-  url: http://zimuku.la/search?q={query}
-  shortcut:
-    icon: closed captioning blue inverted
-    style: black
-    show: false
 
-- id: yyetss
-  name: 人人影视
-  url: http://www.yyetss.com/Search/index/?s_keys={query}
-  shortcut:
-    icon: film blue inverted
-    style: black
-    show: false
 
-- id: dalipan
-  name: 大力盘
-  url: https://www.dalipan.com/search?keyword={query}
-  shortcut:
-    icon: cloud download alternate yellow inverted
-    style: black
-    show: true
 
-- id: yunpanjingling
-  name: 云盘精灵
-  url: https://www.yunpanjingling.com/search/{query}
-  shortcut:
-    icon: cloud download alternate orange inverted
-    style: black
-    show: true
-
-- id: wangpan
-  name: 56网盘
-  url: https://58wangpan.com/search/kw{query}
-  shortcut:
-    icon: cloud download alternate green inverted
-    style: black
-    show: true
-
-- id: lime
-  name: Lime Torrents
-  url: https://limetorrents.cc/search/all/{query}/
-  shortcut:
-    icon: lemon green inverted
-    style: black
-    show: true
-
-- id: Vsearch
-  name: Vsearch
-  url: http://v.eyunzhu.com/search?kw={query}
-  shortcut:
-    icon: star purple
-    style: black
-    show: true
