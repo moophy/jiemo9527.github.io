@@ -33,8 +33,8 @@
     - name: Gvoice
       style: green
       url: https://voice.google.com/
-#    工具
-  - name: 工具
+#    专属
+  - name: SVIP专属web服务
     links:
     - name: 【kod网盘】
       style: green
@@ -63,7 +63,9 @@
     - name: 【FDM】
       style: blue
       url: https://fdm.jie02.top
-
+#    工具
+  - name: 工具
+    links:
     - name: 谷歌分析
       style: light orange
       url: https://analytics.google.com/analytics/web/
@@ -93,6 +95,21 @@
       style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
 
+    - name: DIYP节目列表
+      style: white
+      url: https://go.jie02.top/list.txt
+
+    - name: TG资源搜索
+      style: blue
+      url: http://www.sssoou.com/
+
+    - name: 视频解析
+      style: green
+      url: https://www.parsevideo.com/
+
+    - name: M3U8播放器
+      style: white
+      url: https://www.vjiujiang.com/yl/m3u8/
 #    社交
   - name: 社交
     links:
@@ -143,6 +160,10 @@
       icon: github black
       style: basic
       url: https://github.com/
+
+
+
+- categories:
 #    购物
   - name: 购物
     links:
@@ -179,8 +200,6 @@
     - name: 大疆
       style: black
       url: https://www.dji.com/
-
-- categories:
 #    影视
   - name: 影视
     links:
@@ -213,10 +232,6 @@
       style: blue
       url: http://www.yyetss.com/
 
-    - name: 韩剧TV
-      style: pink
-      url: https://www.hjtv5.com/
-
     - name: 猪猪
       style: purple
       url: http://www.zzrbl.com/
@@ -224,16 +239,6 @@
     - name: 完美看看
       style: orange
       url: https://www.wanmeikk.me/
-
-    - name: 哔嘀影视
-      style: grey
-      url: https://bde4.com/
-
-    - name: 蒙面大侠
-      style: yellow
-      url: https://www.mengmiandaxia.com
-
-
 #    开发资源大全
   - name: 开发资源大全
     links:
@@ -288,32 +293,6 @@
     - name: yml在线检测
       style: black
       url: http://www.bejson.com/validators/yaml_editor/
-#    资源搜索
-  - name: 资源搜索
-    links:
-    - name: m3u8列表
-      style: white
-      url: https://go.jie02.top/list.txt
-
-    - name: 不死鸟索引
-      style: red
-      url: https://hao.su/909/#menu_index_1
-
-    - name: 合集网
-      style: light yellow
-      url: https://www.heji.ltd
-
-    - name: tg资源搜索
-      style: blue
-      url: http://www.sssoou.com/
-
-    - name: 视频解析
-      style: green
-      url: https://www.parsevideo.com/
-
-    - name: M3U8播放器
-      style: white
-      url: https://www.vjiujiang.com/yl/m3u8/
 #    服务器
   - name: Server
     links:
@@ -329,6 +308,10 @@
       style: grey
       url: https://console.cloud.google.com/home/dashboard?project=refined-rookery-234303&hl=zh-CN&_ga=2.55307947.-1647764472.1577851817
 
+    - name: cloudflare
+      style: orange
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
     - name: pacificrack
       style: blue
       url: https://pacificrack.com/portal/clientarea.php?action=services
@@ -336,7 +319,6 @@
     - name: CloudCone
       style: green
       url: https://app.cloudcone.com/login
-
 
     - name: RackNerd
       style: blue
@@ -369,10 +351,6 @@
     - name: Netlify
       style: black
       url: https://app.netlify.com/account/sites
-
-    - name: cloudflare
-      style: orange
-      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
     - name: 云上互联
       style: dark blue
