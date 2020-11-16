@@ -67,15 +67,17 @@
     - name: 【m3u8在线合并】
       style: grey
       url: http://blog.luckly-mjw.cn/tool-show/m3u8-downloader/index.html
-
-
-
 #    工具
   - name: 工具
     links:
     - name: 谷歌分析
       style: light orange
       url: https://analytics.google.com/analytics/web/
+
+    - name: 维基百科
+      icon: wikipedia w black
+      style: basic
+      url: https://www.wikipedia.org/
 
     - name: IPIP
       style: light blue
@@ -92,11 +94,6 @@
     - name: 门牌号
       style: green
       url: https://www.sojson.com/ip/
-
-    - name: 维基百科
-      icon: wikipedia w black
-      style: basic
-      url: https://www.wikipedia.org/
 
     - name: 芝麻代理
       style: blue
@@ -246,7 +243,7 @@
     - name: 完美看看
       style: orange
       url: https://www.wanmeikk.me/
-#    开发资源大全
+#    开发
   - name: 开发资源大全
     links:
     - name: Java资源大全
@@ -372,8 +369,13 @@
       url: https://coalcloud.coalcloud.net/clientarea.php
 
 
-
-
+- categories:
+#    other
+  - name: other
+    links:
+    - name: ###
+      style: yellow
+      url: https://google.com
 
 
 
