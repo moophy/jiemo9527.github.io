@@ -115,9 +115,6 @@
       style: green
       url: https://www.parsevideo.com/
 
-    - name: M3U8播放器
-      style: white
-      url: https://www.vjiujiang.com/yl/m3u8/
 #    社交
   - name: 社交
     links:
