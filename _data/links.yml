@@ -370,13 +370,13 @@
       url: https://coalcloud.coalcloud.net/clientarea.php
 
 
-#- categories:
-##    other
-#  - name: other
-#    links:
-#    - name: ###
-#      style: yellow
-#      url: https://google.com
+- categories:
+#    other
+  - name: 奇怪的页面增加了！
+    links:
+    - name: JIE's 网赚分享
+      style: yellow
+      url: http://jie-getmao.top
 
 
 
