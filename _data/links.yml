@@ -22,7 +22,7 @@
       style: red
       url: https://mail.google.com
 
-    - name: google相册
+    - name: Google相册
       style: grey
       url: https://photos.google.com
 
