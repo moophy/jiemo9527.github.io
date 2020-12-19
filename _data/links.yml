@@ -365,6 +365,10 @@
       style: dark blue
       url: https://upyun.cc/clientarea.php?action=services
 
+    - name: 菠萝云
+      style: purple
+      url: https://polocloud.top/index.php
+
     - name: CloudIPLC
       style: grey
       url: https://www.cloudiplc.com/clientarea.php
