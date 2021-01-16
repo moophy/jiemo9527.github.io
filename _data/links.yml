@@ -317,9 +317,7 @@
       style: grey
       url: https://console.cloud.google.com/home/dashboard?project=refined-rookery-234303&hl=zh-CN&_ga=2.55307947.-1647764472.1577851817
 
-    - name: cloudflare
-      style: orange
-      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
+
 
     - name: pacificrack
       style: blue
@@ -345,6 +343,22 @@
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
 
+    - name: 云上互联
+      style: dark blue
+      url: https://upyun.cc/clientarea.php?action=services
+
+    - name: 菠萝云
+      style: purple
+      url: https://polocloud.top/index.php
+
+    - name: CloudIPLC
+      style: grey
+      url: https://www.cloudiplc.com/clientarea.php
+
+    - name: 碳云
+      style: black
+      url: https://coalcloud.coalcloud.net/clientarea.php
+
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
@@ -361,21 +375,13 @@
       style: black
       url: https://app.netlify.com/account/sites
 
-    - name: 云上互联
-      style: dark blue
-      url: https://upyun.cc/clientarea.php?action=services
+    - name: 笨牛网
+      style: yellow
+      url: http://cdn.bnxb.com/domainlist.php
 
-    - name: 菠萝云
-      style: purple
-      url: https://polocloud.top/index.php
-
-    - name: CloudIPLC
-      style: grey
-      url: https://www.cloudiplc.com/clientarea.php
-
-    - name: 碳云
-      style: black
-      url: https://coalcloud.coalcloud.net/clientarea.php
+    - name: cloudflare
+      style: orange
+      url: https://dash.cloudflare.com/8670cbcae63aab68656e85a736601f64
 
 
 - categories:
