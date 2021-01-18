@@ -375,9 +375,9 @@
       style: black
       url: https://app.netlify.com/account/sites
 
-    - name: 笨牛网
-      style: yellow
-      url: http://cdn.bnxb.com/domainlist.php
+    - name: CFP挖站否
+      style: grey
+      url: https://cdn.wzfou.com
 
     - name: cloudflare
       style: orange
