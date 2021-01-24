@@ -313,8 +313,6 @@
       style: grey
       url: https://console.cloud.google.com/home/dashboard?project=refined-rookery-234303&hl=zh-CN&_ga=2.55307947.-1647764472.1577851817
 
-
-
     - name: pacificrack
       style: blue
       url: https://pacificrack.com/portal/clientarea.php?action=services
@@ -342,10 +340,6 @@
     - name: 云上互联
       style: dark blue
       url: https://upyun.cc/clientarea.php?action=services
-
-    - name: 菠萝云
-      style: purple
-      url: https://polocloud.top/index.php
 
     - name: CloudIPLC
       style: grey
