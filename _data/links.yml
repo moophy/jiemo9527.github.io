@@ -99,10 +99,6 @@
       style: blue
       url: http://h.zhimaruanjian.com/ucenter/#info
 
-    - name: 6盘
-      style: green
-      url: https://2dland.cn/offlines/tasks
-
     - name: DIYP节目列表
       style: white
       url: https://go.jie02.top/list.txt
