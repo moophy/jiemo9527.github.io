@@ -96,8 +96,12 @@
       url: https://www.sojson.com/ip/
 
     - name: 芝麻代理
-      style: blue
+      style: black
       url: http://h.zhimaruanjian.com/ucenter/#info
+
+    - name: 西拉代理
+      style: blue
+      url: http://www.xiladaili.com/interface/
 
     - name: DIYP节目列表
       style: white
