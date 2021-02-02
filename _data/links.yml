@@ -95,6 +95,10 @@
       style: green
       url: https://www.sojson.com/ip/
 
+    - name: 蘑菇HTTP
+      style: #f0f2f5
+      url: http://www.moguproxy.com
+
     - name: 芝麻代理
       style: black
       url: http://h.zhimaruanjian.com/ucenter/#info
