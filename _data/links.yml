@@ -96,7 +96,7 @@
       url: https://www.sojson.com/ip/
 
     - name: 蘑菇HTTP
-      style: DarkBlue
+      style: blue
       url: http://www.moguproxy.com
 
     - name: 芝麻代理
