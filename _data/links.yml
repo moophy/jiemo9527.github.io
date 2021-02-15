@@ -111,6 +111,10 @@
       style: blue
       url: http://www.sssoou.com/
 
+    - name: BT之家
+      style: grey
+      url: http://www.55btjia.com
+
     - name: 视频解析
       style: green
       url: https://www.parsevideo.com/
