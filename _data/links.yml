@@ -249,11 +249,11 @@
 
     - name: tvshow
       style: white
-      url: https://go.jie02.top/tvshow.html
+      url: https://go.jie02.top/tvshow.txt
 
     - name: 完美看看索引
       style: orange
-      url: https://go.jie02.top/pa_wmkk.html
+      url: https://go.jie02.top/pa_wmkk.txt
 #    开发
   - name: 开发
     links:
