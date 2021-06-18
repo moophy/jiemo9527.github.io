@@ -107,9 +107,7 @@
       style: blue
       url: http://www.xiladaili.com/interface/
 
-    - name: DIYP节目列表
-      style: white
-      url: https://go.jie02.top/list.txt
+
 
     - name: TG资源搜索
       style: blue
@@ -249,9 +247,13 @@
       style: purple
       url: http://www.zzrbl.com/
 
-    - name: 完美看看
+    - name: tvshow
+      style: white
+      url: https://go.jie02.top/tvshow.html
+
+    - name: 完美看看索引
       style: orange
-      url: https://www.wanmeikk.me/
+      url: https://go.jie02.top/pa_wmkk.html
 #    开发
   - name: 开发
     links:
