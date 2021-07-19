@@ -251,9 +251,6 @@
       style: white
       url: https://go.jie02.top/tvshow.txt
 
-    - name: 完美看看索引
-      style: orange
-      url: https://docs.google.com/spreadsheets/d/177-cT6rbPI0qaUZAFXDp6nT7DiGbQIokDRsNQHmo-C0/edit?usp=sharing
 #    开发
   - name: 开发
     links:
