@@ -257,53 +257,13 @@
 #    开发
   - name: 开发
     links:
-    - name: Java资源大全
-      style: pink
-      url: http://t.cn/RUtp4qt
-
-    - name: Python资源大全
-      style: green
-      url: http://t.cn/Rq0C0ET
-
-    - name: JS资源大全
-      style: orange
-      url: http://t.cn/R44bazj
-
-    - name: CSS资源大全
-      style: basic
-      url: http://t.cn/R4trAbc
-
-    - name: iOS资源大全
-      style: basic
-      url: http://t.cn/Rbe5h16
-
-    - name: Andriod资源大全
-      style: black
-      url: http://t.cn/RtJsQyd
-
-    - name: PHP资源大全
-      style: basic
-      url: http://t.cn/RtCVOwT
-
-    - name: .NET资源大全
-      style: grey
-      url: http://t.cn/RtCVOwT
-
-    - name: 系统管理资源大全
-      style: blue
-      url: http://t.cn/RqBjrlw
-
-    - name: 机器学习资源大全
-      style: yellow
-      url: http://t.cn/Rqd9xEj
-
     - name: Maven Repository
       style: black
       url: https://mvnrepository.com
 
     - name: 在线pdm
       style: black
-      url: www.dmanywhere.cn
+      url: http://www.dmanywhere.cn
 
     - name: yml在线检测
       style: black
