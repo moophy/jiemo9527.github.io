@@ -38,7 +38,7 @@
     links:
     - name: 【kod网盘】
       style: green
-      url: https://miaowu.cyou
+      url: https://miaowu.cyou:6262
 
     - name: 【phpwp】
       style: light green
