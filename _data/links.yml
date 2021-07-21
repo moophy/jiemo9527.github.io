@@ -190,6 +190,10 @@
       style: basic
       url: https://www.jd.com/
 
+    - name: 1688
+      style: basic
+      url: https://www.1688.com
+
     - name: Amazon
       icon: amazon yellow
       style: basic
