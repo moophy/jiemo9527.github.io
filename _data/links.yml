@@ -10,11 +10,11 @@
       style: blue
       url: https://translate.google.com
 
-    - name: Gdrive
+    - name: Google Drive
       style: green
       url: https://drive.google.com
 
-    - name: Gscript
+    - name: Google APP Script
       style: orange
       url: https://script.google.com
 
@@ -30,7 +30,7 @@
       style: blue
       url: https://chrome.google.com/webstore/category/extensions?hl=zh
 
-    - name: Gvoice
+    - name: Google Voice
       style: green
       url: https://voice.google.com/
 #    专属
@@ -75,7 +75,7 @@
       style: basic
       url: https://www.wikipedia.org/
 
-    - name: BASE64
+    - name: Base64
       style: light blue
       url: https://tool.oschina.net/encrypt?type=3
 
@@ -108,8 +108,7 @@
       url: http://www.xiladaili.com/interface/
 
 
-
-    - name: TG资源搜索
+    - name: TG资源索引
       style: blue
       url: http://www.sssoou.com/
 
@@ -117,7 +116,7 @@
       style: grey
       url: https://btbtt.biz
 
-    - name: 视频解析
+    - name: ParseVideo
       style: green
       url: https://www.parsevideo.com/
 
@@ -275,10 +274,6 @@
     - name: 搬瓦工
       style: yellow
       url: https://bandwagonhost.com/clientarea.php?action=products
-
-    - name: pacificrack
-      style: blue
-      url: https://pacificrack.com/portal/clientarea.php?action=services
 
     - name: CloudCone
       style: green
