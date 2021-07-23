@@ -287,6 +287,10 @@
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
 
+    - name: CloudIPLC
+      style: grey
+      url: https://www.cloudiplc.com/clientarea.php
+
     - name: namesilo
       style: blue
       url: https://www.namesilo.com/account_domains.php
