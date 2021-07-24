@@ -156,11 +156,6 @@
       style: basic
       url: https://www.facebook.com/
 
-    - name: Google+
-      icon: google plus g red
-      style: basic
-      url: https://plus.google.com/
-
     - name: Instagram
       icon: instagram pink
       style: basic
