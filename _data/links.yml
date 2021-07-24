@@ -287,6 +287,10 @@
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
 
+    - name: RangCloud
+      style: blue
+      url: https://rang.cloud/clientarea.php
+
     - name: CloudIPLC
       style: grey
       url: https://www.cloudiplc.com/clientarea.php
