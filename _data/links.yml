@@ -245,9 +245,13 @@
       style: purple
       url: http://www.zzrbl.com/
 
-    - name: tvshow
+    - name: diyp_list
       style: white
       url: https://go.jie02.top/tvshow.txt
+
+    - name: 央视卫视蓝光dpl
+      style: white
+      url: https://go.jie02.top/央视卫视蓝光dpl.txt
 
 #    开发
   - name: 开发
