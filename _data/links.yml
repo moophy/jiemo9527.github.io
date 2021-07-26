@@ -247,7 +247,7 @@
 
     - name: diyp_list
       style: white
-      url: https://go.jie02.top/tvshow.txt
+      url: https://go.jie02.top/diyp_list.txt
 
     - name: 央视卫视蓝光dpl
       style: white
