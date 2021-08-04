@@ -1,7 +1,7 @@
 google:
   id: UA-100531691-1
 
-matomo:
+
   url:
   domains:
   - "*.byr-navi.com"
