@@ -8,11 +8,6 @@
   url: /customize/
   active_key: customize
 
-- name: 访客分析
-  icon: chart bar
-  url: /analytics/
-  active_key: analytics
-
 - name: 捐赠
   icon: donate
   url: /donate/
