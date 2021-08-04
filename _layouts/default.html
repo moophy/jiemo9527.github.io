@@ -20,7 +20,7 @@
     {% if page.active_key == 'home' and site.data.style.memorial %}<link rel="stylesheet" type="text/css" href="{{ '/assets/css/grayscale.css' | relative_url }}">{% endif %}
     <link rel="apple-touch-icon" type="image/png" href="{{ '/apple-touch-icon.png' | relative_url }}">
     <link rel="icon" type="image/x-icon" href="{{ '/favicon.ico' | relative_url }}">
-    {% include analytics.html %}
+
 </head>
 <body>
     {% include following_menu.html %}
@@ -30,7 +30,7 @@
         {{ content }}
         {% include footer.html %}
     </div>
-    <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>
+<!--    <script type="text/javascript" src="//unpkg.com/jquery/dist/jquery.min.js"></script>-->
     <script type="text/javascript" src="//unpkg.com/fomantic-ui/dist/semantic.min.js"></script>
     <script type="text/javascript" src="{{ '/assets/js/common.js' | relative_url }}"></script>
     {% if page.active_key == 'home' %}<script type="text/javascript" src="//unpkg.com/dayjs/dayjs.min.js"></script>
