@@ -16,7 +16,7 @@ setInterval(function () {
 
 // version
 dayjs.locale('zh-cn');
-dayjs.extend(dayjs_plugin_relativeTime);
+dayjs.extend(window.dayjs_plugin_relativeTime);
 function updateVersion(timestamp) {
     $('#version img').attr('src', `https://img.shields.io/badge/%E6%9B%B4%E6%96%B0%E4%BA%8E-${encodeURIComponent(dayjs(timestamp).fromNow())}-brightgreen.svg`);
 };
@@ -28,7 +28,36 @@ setInterval(function () {
     };
 }, 60000);
 
-
+// visit
+function updateVisit() {
+    $.getJSON(analyticsAPI.url, {
+        'module': 'API',
+        'method': 'VisitsSummary.getUniqueVisitors',
+        'idSite': analyticsAPI.id,
+        'period': 'day',
+        'date': 'today',
+        'format': 'JSON',
+        'token_auth': analyticsAPI.token
+    }, function (data) {
+        $('#today-visitors img').attr('src', `https://img.shields.io/badge/%E4%BB%8A%E6%97%A5%E8%AE%BF%E5%AE%A2-${encodeURIComponent(data.value)}-brightgreen.svg`);
+    });
+    $.getJSON(analyticsAPI.url, {
+        'module': 'API',
+        'method': 'Live.getCounters',
+        'idSite': analyticsAPI.id,
+        'lastMinutes': '30',
+        'format': 'JSON',
+        'token_auth': analyticsAPI.token
+    }, function (data) {
+        $('#live-visitors img').attr('src', `https://img.shields.io/badge/%E5%BD%93%E5%89%8D%E5%9C%A8%E7%BA%BF-${encodeURIComponent(data[0].visitors)}-brightgreen.svg`);
+    });
+};
+updateVisit();
+setInterval(function () {
+    if (!document.hidden) {
+        updateVisit();
+    };
+}, 60000);
 
 // search
 $('#search-services').dropdown();
