@@ -21,7 +21,7 @@
   shortcut:
     icon: microsoft teal inverted
     style: black
-    show: true
+    show: false
 
 - id: baidumap
   name: 百度地图
@@ -37,7 +37,7 @@
   shortcut:
     icon: shipping fast green inverted
     style: black
-    show: true
+    show: false
 
 - id: 17track
   name: 国际查件
@@ -53,7 +53,7 @@
   shortcut:
     icon: newspaper blue inverted
     style: black
-    show: true
+    show: false
 
 - id: wikipedia
   name: 维基百科
@@ -69,7 +69,7 @@
   shortcut:
     icon: github
     style: black
-    show: false
+    show: true
 
 - id: stackoverflow
   name: Stack Overflow
@@ -77,7 +77,7 @@
   shortcut:
     icon: stack overflow orange inverted
     style: black
-    show: true
+    show: false
 
 - id: zhihu
   name: 知乎
@@ -117,7 +117,7 @@
   shortcut:
     icon: weixin green inverted
     style: black
-    show: true
+    show: false
 
 - id: minapp
   name: 微信小程序
@@ -328,7 +328,7 @@
   shortcut:
     icon: magnet green inverted
     style: black
-    show: true
+    show: false
 
 - id: lime
   name: Lime Torrents
@@ -336,7 +336,7 @@
   shortcut:
     icon: lemon green inverted
     style: black
-    show: true
+    show: false
 
 - id: onejav
   name: OneJav
@@ -346,26 +346,3 @@
     style: black
     show: false
 
-- id: byrsearch
-  name: 北邮人论坛1
-  url: http://123.207.168.11/byrbbs/?key={query}
-  shortcut:
-    icon: comments red inverted
-    style: black
-    show: false
-
-- id: icysearch
-  name: 北邮人论坛2
-  url: http://search.icybee.cn/bbs/?key={query}
-  shortcut:
-    icon: comments blue inverted
-    style: black
-    show: false
-
-- id: byrbt
-  name: 北邮人BT
-  url: https://bt.byr.cn/torrents.php?search={query}
-  shortcut:
-    icon: cloud download alternate teal inverted
-    style: black
-    show: false
