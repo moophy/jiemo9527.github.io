@@ -338,11 +338,5 @@
     style: black
     show: false
 
-- id: onejav
-  name: OneJav
-  url: https://onejav.com/search/{query}
-  shortcut:
-    icon: film pink inverted
-    style: black
-    show: false
+
 
