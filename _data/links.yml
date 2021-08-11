@@ -79,9 +79,14 @@
       style: light blue
       url: https://tool.oschina.net/encrypt?type=3
 
-    - name: automate
+    - name: Automate
       style: blue
       url: https://automate.io/app/dashboard
+
+    - name: Feed43
+      style: purple
+      url: https://feed43.com/users/JIEMO
+
 
     - name: IPIP
       style: light blue
