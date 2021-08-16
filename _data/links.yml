@@ -87,23 +87,6 @@
       style: purple
       url: https://feed43.com/users/JIEMO
 
-
-    - name: IPIP
-      style: light blue
-      url: https://www.ipip.net/ip.html
-
-    - name: IPSukka
-      style: white
-      url: https://ip.skk.moe
-
-    - name: IPAddress
-      style: black
-      url: https://www.ipaddress.com/
-
-    - name: 门牌号
-      style: green
-      url: https://www.sojson.com/ip/
-
     - name: 蘑菇HTTP
       style: blue
       url: http://www.moguproxy.com
@@ -262,20 +245,32 @@
       style: white
       url: https://go.jie02.top/央视卫视蓝光.txt
 
-#    开发
-  - name: 开发
+#    检测
+  - name: 检测
     links:
-    - name: Maven Repository
-      style: black
-      url: https://mvnrepository.com
+    - name: IPIP
+      style: light blue
+      url: https://www.ipip.net/ip.html
 
-    - name: 在线pdm
-      style: black
-      url: http://www.dmanywhere.cn
+    - name: IPSukka
+      style: white
+      url: https://ip.skk.moe
 
-    - name: yml在线检测
+    - name: IPAddress
       style: black
-      url: http://www.bejson.com/validators/yaml_editor/
+      url: https://www.ipaddress.com/
+
+    - name: 门牌号
+      style: green
+      url: https://www.sojson.com/ip/
+
+    - name: speedtest.cn
+      style: blue
+      url: https://speedtest.cn/
+
+    - name: speedtest.net
+      style: black
+      url: https://speedtest.net/
 #    服务器
   - name: Server
     links:
