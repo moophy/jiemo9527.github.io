@@ -266,7 +266,7 @@
 
     - name: speedtest.cn
       style: blue
-      url: https://speedtest.cn/
+      url: https://www.speedtest.cn
 
     - name: speedtest.net
       style: black
