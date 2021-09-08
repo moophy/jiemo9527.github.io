@@ -252,13 +252,19 @@
 #    检测
   - name: 检测
     links:
+      - name: IPSukka
+      style: white
+      url: https://ip.skk.moe
+
+    - name: IP_Check
+      style: grey
+      url: https://ip.jie02.top
+
     - name: IPIP
       style: light blue
       url: https://www.ipip.net/ip.html
 
-    - name: IPSukka
-      style: white
-      url: https://ip.skk.moe
+
 
     - name: IPAddress
       style: black
