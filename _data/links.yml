@@ -252,7 +252,7 @@
 #    检测
   - name: 检测
     links:
-      - name: IPSukka
+    - name: IPSukka
       style: white
       url: https://ip.skk.moe
 
@@ -263,8 +263,6 @@
     - name: IPIP
       style: light blue
       url: https://www.ipip.net/ip.html
-
-
 
     - name: IPAddress
       style: black
