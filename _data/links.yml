@@ -298,9 +298,9 @@
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
 
-    - name: RangCloud
+    - name: 云上互联
       style: blue
-      url: https://rang.cloud/clientarea.php
+      url: https://upyun.cc/clientarea.php
 
     - name: CloudIPLC
       style: grey
