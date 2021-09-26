@@ -129,13 +129,17 @@
       style: basic
       url: https://wx.qq.com/
 
-    - name: 一加社区
-      style: red
-      url: http://www.oneplusbbs.com/forum-118-1.html
+    - name: 恩山论坛
+      style: blue
+      url: https://www.right.com.cn/forum/forum.php
 
     - name: 吾爱破解
       style: pink
       url: https://www.52pojie.cn/
+
+    - name: 一加社区
+      style: red
+      url: https://www.oneplusbbs.com/forum-118-1.html
 
     - name: 百度贴吧
       icon: paw blue
