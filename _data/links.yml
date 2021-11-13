@@ -298,6 +298,10 @@
       style: blue
       url: https://my.racknerd.com/clientarea.php?action=services
 
+    - name: alphavps
+      style: purple
+      url: https://alphavps.com/clients/clientarea.php?action=services
+
     - name: JustHost
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
