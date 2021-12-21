@@ -294,9 +294,9 @@
       style: yellow
       url: https://bandwagonhost.com/clientarea.php?action=products
 
-    - name: CloudCone
-      style: green
-      url: https://app.cloudcone.com/login
+    - name: CUBECLOUD
+      style: grey
+      url: https://www.cubecloud.net/clientarea.php
 
     - name: RackNerd
       style: blue
