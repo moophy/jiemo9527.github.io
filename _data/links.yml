@@ -310,6 +310,10 @@
       style: white
       url: https://justhost.ru/auth/login/?returl=/billing/active
 
+    - name: 三丰云
+      style: blue
+      url: https://www.sanfengyun.com/control/#/serverList
+
     - name: 云上互联
       style: blue
       url: https://upyun.cc/clientarea.php
