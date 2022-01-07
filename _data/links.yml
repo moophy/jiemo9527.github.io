@@ -314,10 +314,6 @@
       style: blue
       url: https://www.sanfengyun.com/control/#/serverList
 
-    - name: 云上互联
-      style: blue
-      url: https://upyun.cc/clientarea.php
-
     - name: CloudIPLC
       style: grey
       url: https://www.cloudiplc.com/clientarea.php
